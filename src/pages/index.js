@@ -30,7 +30,6 @@ export default class IndexPage extends React.Component {
                     <small>{post.frontmatter.date}</small>
                   </p>
                   <p>
-                    {post.excerpt} - 
                     {post.frontmatter.description}
                     <br />
                     <br />
