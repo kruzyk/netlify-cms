@@ -34,11 +34,11 @@ main:
     Przerwy taneczne to świetny sposób na małą odskocznię i chwilową zmianę
     klimatu dla wszystkich tańczących.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Karaoke party w klubie Autsajder
+    image: /img/41503648_10157153191277137_8436146974364794880_n.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: Impreza karaoke w klubie studenckim Ygrek
+    image: /img/43083214_10156511778520049_8254498556715466752_n.jpg
   image3:
     alt: Prowadząca imprezę karaoke
     image: /img/10382856_1768425663385368_2320758029078343954_n.jpg
@@ -66,7 +66,7 @@ pricing:
         - wysokiej jakości podkłady
         - lista piosenek do wyboru
       plan: Karaoke
-      price: 350 zł
+      price: złóż ofertę
     - description: >-
         Dla szukających okazji do potańczenia przy lubianych hitach lat 90 i
         współczesnych
@@ -75,12 +75,12 @@ pricing:
         - disco polo itd)
         - przeboje imprezowe lat 90 i współczesne
       plan: Impreza
-      price: 350 zł
+      price: złóż ofertę
     - description: Prowadzenie imprezy w sposób połączony w zależności od oczekiwań
       items:
         - przeplatanie karaoke tzw. przerwami tanecznymi
         - indywidualne podejście
       plan: karaoke & party
-      price: '??'
+      price: złóż ofertę
 ---
 
