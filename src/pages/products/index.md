@@ -9,21 +9,17 @@ description: >-
 intro:
   blurbs:
     - image: /img/41503648_10157153191277137_8436146974364794880_n.jpg
+      localisation: https://wego.here.com/directions/mix//Klub-Autsajder,-ulica-Do-Studzienki-34A,-80-227-Gda%C5%84sk:e-eyJuYW1lIjoiS2x1YiBBdXRzYWpkZXIiLCJhZGRyZXNzIjoidWwuIERvIFN0dWR6aWVua2kgMzRBLCA4MC0yMjcgV3J6ZXN6Y3osIEdkYW5zaywgUG9sYW5kIiwibGF0aXR1ZGUiOjU0LjM2ODU1LCJsb25naXR1ZGUiOjE4LjYxMTA5LCJwcm92aWRlck5hbWUiOiJmYWNlYm9vayIsInByb3ZpZGVySWQiOjMzMDAwMTY1NzEzNn0=?map=54.36855,18.61109,15,normal&fb_locale=pl_PL
+      event: https://www.facebook.com/events/255980141923631/
       text: >-
-        środa, godzina 21:00 - klub Autsajder <a
-        href="https://wego.here.com/directions/mix//Klub-Autsajder,-ulica-Do-Studzienki-34A,-80-227-Gda%C5%84sk:e-eyJuYW1lIjoiS2x1YiBBdXRzYWpkZXIiLCJhZGRyZXNzIjoidWwuIERvIFN0dWR6aWVua2kgMzRBLCA4MC0yMjcgV3J6ZXN6Y3osIEdkYW5zaywgUG9sYW5kIiwibGF0aXR1ZGUiOjU0LjM2ODU1LCJsb25naXR1ZGUiOjE4LjYxMTA5LCJwcm92aWRlck5hbWUiOiJmYWNlYm9vayIsInByb3ZpZGVySWQiOjMzMDAwMTY1NzEzNn0=?map=54.36855,18.61109,15,normal&fb_locale=pl_PL"><mapa></a>
+        środa, godzina 21:00 - klub Autsajder
 
-
-        <a href="https://www.facebook.com/events/255980141923631/">wydarzenie na
-        FB</a>
     - image: /img/43083214_10156511778520049_8254498556715466752_n.jpg
+    localisation: https://wego.here.com/directions/mylocation/e-eyJuYW1lIjoiS2x1YiBZZ3JlayIsImFkZHJlc3MiOiJ1bC4gUG9sYW5raSA2NSwgODAtMzA2IE9saXdhLCBHZGFuc2ssIFBvbGFuZCIsImxhdGl0dWRlIjo1NC4zOTQxMTE4LCJsb25naXR1ZGUiOjE4LjU2OTYyODgsInByb3ZpZGVyTmFtZSI6ImZhY2Vib29rIiwicHJvdmlkZXJJZCI6MzU5NjAyMzI1MDQ4fQ==?map=54.3941118,18.5696288,15,normal&ref=facebook&link=unknown&fb_locale=pl_PL
+    event: https://www.facebook.com/events/2154809264777056/
       text: >-
-        czwartek, godzina 21:00 - klub Ygrek <a
-        href="https://wego.here.com/directions/mylocation/e-eyJuYW1lIjoiS2x1YiBZZ3JlayIsImFkZHJlc3MiOiJ1bC4gUG9sYW5raSA2NSwgODAtMzA2IE9saXdhLCBHZGFuc2ssIFBvbGFuZCIsImxhdGl0dWRlIjo1NC4zOTQxMTE4LCJsb25naXR1ZGUiOjE4LjU2OTYyODgsInByb3ZpZGVyTmFtZSI6ImZhY2Vib29rIiwicHJvdmlkZXJJZCI6MzU5NjAyMzI1MDQ4fQ==?map=54.3941118,18.5696288,15,normal&ref=facebook&link=unknown&fb_locale=pl_PL"><mapa></a>
+        czwartek, godzina 21:00 - klub Ygrek
 
-
-        <a href="https://www.facebook.com/events/2154809264777056/">wydarzenie
-        na FB</a>
   heading: Co mogę zaoferować?
   description: >-
     Posiadam bazę kilku tysięcy wyselekcjonowanych podkładów. Zapomnij o słabej
