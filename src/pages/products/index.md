@@ -24,12 +24,10 @@ intro:
 
         <a href="https://www.facebook.com/events/2154809264777056/">wydarzenie
         na FB</a>
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: Co mogę zaoferować?
+  description: >-
+    Posiadam bazę kilku tysięcy wyselekcjonowanych podkładów. Zapomnij o słabej
+    jakości podkładach MIDI, których niektórzy ciągle używają.
 main:
   heading: Zabawa do rana!
   description: >
@@ -42,8 +40,8 @@ main:
     alt: A green cup of a coffee on a wooden table
     image: /img/products-grid2.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: Prowadząca imprezę karaoke
+    image: /img/10382856_1768425663385368_2320758029078343954_n.jpg
 testimonials:
   - author: Katarzyna Namroz
     quote: >-
@@ -59,7 +57,7 @@ pricing:
   heading: Co mogę dla Ciebie zrobić?
   description: >-
     Podchodzę profesjonalnie do swoich obowiązków ale prowadzenie imprez karaoke
-    sprawia i też ogromną przyjemność - dlatego właśnie na moich imprezach
+    sprawia mi też ogromną przyjemność - dlatego właśnie na moich imprezach
     Goście tak świetnie się bawią.
   plans:
     - description: Imprezy dla rozśpiewanych
