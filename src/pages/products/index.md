@@ -50,9 +50,9 @@ testimonials:
       potańczenia aż do rana. Staram się wracać jak tylko mogę.
   - author: Przemek Bajeczny
     quote: >-
-      Mary Jane Razor, czyli Żyleta jak ktoś woli, prowadzi imprezy karaoke w
+      Mary Jane Razor, czy Żyleta jak ktoś woli, prowadzi imprezy karaoke w
       profesjonalny sposób. Ma dobrej jakości podkłady.
-full_image: /img/products-full-width.jpg
+full_image: /img/12698616_1560534740904505_542198214049005302_o.jpg
 pricing:
   heading: Co mogę dla Ciebie zrobić?
   description: >-
