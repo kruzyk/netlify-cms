@@ -1,14 +1,11 @@
 ---
-templateKey: 'product-page'
-path: /products
-title: Our Coffee
-image: /img/jumbotron.jpg
-heading: What we offer
+templateKey: product-page
+title: Karaoke
+image: /img/12698616_1560534740904505_542198214049005302_o.jpg
+heading: Co mogę zaoferować?
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Posiadam bazę kilku tysięcy wyselekcjonowanych podkładów. Zapomnij o słabej
+  jakości podkładach MIDI, których niektórzy ciągle używają.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -99,3 +96,4 @@ pricing:
       plan: Custom
       price: '??'
 ---
+
