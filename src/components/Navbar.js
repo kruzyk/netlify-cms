@@ -23,7 +23,7 @@ const Navbar = () => (
         <Link className="navbar-item" to="/kontakt">
           Kontakt
         </Link>
-        <Link className="navbar-item" to="/contact/examples">
+        <Link className="navbar-item" to="/kontakt/examples">
           Form Examples
         </Link>
       </div>

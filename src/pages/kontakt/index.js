@@ -39,11 +39,11 @@ export default class Index extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-        <h1>Contact</h1>
+        <h1>Kontakt</h1>
         <form
           name="contact"
           method="post"
-          action="/contact/thanks/"
+          action="/kontakt/thanks/"
           data-netlify="true"
           data-netlify-honeypot="bot-field"
           onSubmit={this.handleSubmit}
@@ -52,12 +52,12 @@ export default class Index extends React.Component {
           <input type="hidden" name="form-name" value="contact" />
           <div hidden>
             <label>
-              Don’t fill this out:{" "}
+              Nie wypełniaj tego:{" "}
               <input name="bot-field" onChange={this.handleChange} />
             </label>
           </div>
           <div className="field">
-            <label className="label" htmlFor={"name"} >Your name</label>
+            <label className="label" htmlFor={"name"} >Twoje imię</label>
             <div className="control">
               <input className="input" type={"text"} name={"name"} onChange={this.handleChange} id={"name"} required={true} />
             </div>
@@ -69,13 +69,13 @@ export default class Index extends React.Component {
               </div>
           </div>
           <div className="field">
-            <label className="label" htmlFor={"message"}>Message</label>
+            <label className="label" htmlFor={"message"}>Wiadomość</label>
             <div className="control">
               <textarea className="textarea" name={"message"} onChange={this.handleChange} id={"email"} required={true} />
             </div>
           </div>
           <div className="field">
-            <button className="button is-link" type="submit">Send</button>
+            <button className="button is-link" type="submit">Wyślij</button>
           </div>
         </form>
         </div>
