@@ -20,9 +20,9 @@ const FeatureGrid = ({ gridItems }) => (
           <p>
             {item.text}
             <br/><br/>
-            <a href='{item.event}'>wydażenie na FB</a>
+            <a href={item.event}>wydarzenie na FB</a>
             <br/>
-            <a href='{item.localisation}'>dojazd</a>
+            <a href={item.localisation}>dojazd</a>
           </p>
         </section>
       </div>
