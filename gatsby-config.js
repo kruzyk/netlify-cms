@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
-    titleTemplate: "%s · The Real Hero",
+    title: 'Karaoke Party w Trójmieście | Prowadzenie imprez w Gdańsku, Sopocie i Gdyni',
+    titleTemplate: '%s · Karaoke party Gdańsk',
     description:
-      "Hogwarts Potions master, Head of Slytherin house and former Death Eater.",
-    url: "https://www.karaoke-3city.pl", // No trailing slash allowed!
-    image: "/images/snape.jpg", // Path to your image you placed in the 'static' folder
-    twitterUsername: "@occlumency",
+      'Najlepsze imprezy karaoke w Trójmieście. Zobacz gdzie możesz fajnie się bawić. Prowadzę imprezy taneczne i karaoke. Zapraszam!',
+    url: 'https://www.karaoke-3city.pl', // No trailing slash allowed!
+    image: '', // Path to your image you placed in the 'static' folder
+    twitterUsername: '',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
