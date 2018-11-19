@@ -66,7 +66,7 @@ pricing:
         - wysokiej jakości podkłady
         - lista piosenek do wyboru
       plan: Karaoke
-      price: '350'
+      price: 350 zł
     - description: >-
         Dla szukających okazji do potańczenia przy lubianych hitach lat 90 i
         współczesnych
@@ -75,7 +75,7 @@ pricing:
         - disco polo itd)
         - przeboje imprezowe lat 90 i współczesne
       plan: Impreza
-      price: '350'
+      price: 350 zł
     - description: Prowadzenie imprezy w sposób połączony w zależności od oczekiwań
       items:
         - przeplatanie karaoke tzw. przerwami tanecznymi
