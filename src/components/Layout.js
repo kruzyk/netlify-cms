@@ -6,7 +6,16 @@ import './all.sass'
 
 const TemplateWrapper = ({ children }) => (
   <div>
-    <Helmet title="Home | Gatsby + Netlify CMS" />
+    <Helmet title="Home | Gatsby + Netlify CMS">
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-129155228-1"></script>
+<script>{`
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-129155228-1');`}
+</script>
+    </Helmet>
     <Navbar />
     <div>{children}</div>
   </div>
