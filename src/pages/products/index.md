@@ -15,8 +15,8 @@ intro:
         środa, godzina 21:00 - klub Autsajder
 
     - image: /img/43083214_10156511778520049_8254498556715466752_n.jpg
-    localisation: https://wego.here.com/directions/mylocation/e-eyJuYW1lIjoiS2x1YiBZZ3JlayIsImFkZHJlc3MiOiJ1bC4gUG9sYW5raSA2NSwgODAtMzA2IE9saXdhLCBHZGFuc2ssIFBvbGFuZCIsImxhdGl0dWRlIjo1NC4zOTQxMTE4LCJsb25naXR1ZGUiOjE4LjU2OTYyODgsInByb3ZpZGVyTmFtZSI6ImZhY2Vib29rIiwicHJvdmlkZXJJZCI6MzU5NjAyMzI1MDQ4fQ==?map=54.3941118,18.5696288,15,normal&ref=facebook&link=unknown&fb_locale=pl_PL
-    event: https://www.facebook.com/events/2154809264777056/
+      localisation: https://wego.here.com/directions/mylocation/e-eyJuYW1lIjoiS2x1YiBZZ3JlayIsImFkZHJlc3MiOiJ1bC4gUG9sYW5raSA2NSwgODAtMzA2IE9saXdhLCBHZGFuc2ssIFBvbGFuZCIsImxhdGl0dWRlIjo1NC4zOTQxMTE4LCJsb25naXR1ZGUiOjE4LjU2OTYyODgsInByb3ZpZGVyTmFtZSI6ImZhY2Vib29rIiwicHJvdmlkZXJJZCI6MzU5NjAyMzI1MDQ4fQ==?map=54.3941118,18.5696288,15,normal&ref=facebook&link=unknown&fb_locale=pl_PL
+      event: https://www.facebook.com/events/2154809264777056/
       text: >-
         czwartek, godzina 21:00 - klub Ygrek
 
