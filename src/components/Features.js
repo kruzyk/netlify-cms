@@ -17,7 +17,13 @@ const FeatureGrid = ({ gridItems }) => (
               <PreviewCompatibleImage imageInfo={item} />
             </div>
           </div>
-          <p>{item.text}</p>
+          <p>
+            {item.text}
+            <br/><br/>
+            <a href='{item.event}'>wydażenie na FB</a>
+            <br/>
+            <a href='{item.localisation}'>dojazd</a>
+          </p>
         </section>
       </div>
     ))}
@@ -28,6 +34,8 @@ FeatureGrid.propTypes = {
   gridItems: PropTypes.arrayOf(
     PropTypes.shape({
       image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+      localisation: PropTypes.string,
+      event: PropTypes.string,
       text: PropTypes.string,
     })
   ),

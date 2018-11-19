@@ -190,6 +190,8 @@ export const productPageQuery = graphql`
                 }
               }
             }
+            localisation
+            event
             text
           }
           heading
