@@ -18,10 +18,10 @@ const Navbar = () => (
           About
         </Link>
         <Link className="navbar-item" to="/products">
-          Products
+          Mary Jane Razor
         </Link>
-        <Link className="navbar-item" to="/contact">
-          Contact
+        <Link className="navbar-item" to="/kontakt">
+          Kontakt
         </Link>
         <Link className="navbar-item" to="/contact/examples">
           Form Examples
