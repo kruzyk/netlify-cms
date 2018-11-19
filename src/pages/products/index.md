@@ -8,33 +8,22 @@ description: >-
   jakości podkładach MIDI, których niektórzy ciągle używają.
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+    - image: /img/41503648_10157153191277137_8436146974364794880_n.jpg
+      text: >-
+        środa, godzina 21:00 - klub Autsajder <a
+        href="https://wego.here.com/directions/mix//Klub-Autsajder,-ulica-Do-Studzienki-34A,-80-227-Gda%C5%84sk:e-eyJuYW1lIjoiS2x1YiBBdXRzYWpkZXIiLCJhZGRyZXNzIjoidWwuIERvIFN0dWR6aWVua2kgMzRBLCA4MC0yMjcgV3J6ZXN6Y3osIEdkYW5zaywgUG9sYW5kIiwibGF0aXR1ZGUiOjU0LjM2ODU1LCJsb25naXR1ZGUiOjE4LjYxMTA5LCJwcm92aWRlck5hbWUiOiJmYWNlYm9vayIsInByb3ZpZGVySWQiOjMzMDAwMTY1NzEzNn0=?map=54.36855,18.61109,15,normal&fb_locale=pl_PL"><mapa></a>
+
+
+        <a href="https://www.facebook.com/events/255980141923631/">wydarzenie na
+        FB</a>
+    - image: /img/43083214_10156511778520049_8254498556715466752_n.jpg
+      text: >-
+        czwartek, godzina 21:00 - klub Ygrek <a
+        href="https://wego.here.com/directions/mylocation/e-eyJuYW1lIjoiS2x1YiBZZ3JlayIsImFkZHJlc3MiOiJ1bC4gUG9sYW5raSA2NSwgODAtMzA2IE9saXdhLCBHZGFuc2ssIFBvbGFuZCIsImxhdGl0dWRlIjo1NC4zOTQxMTE4LCJsb25naXR1ZGUiOjE4LjU2OTYyODgsInByb3ZpZGVyTmFtZSI6ImZhY2Vib29rIiwicHJvdmlkZXJJZCI6MzU5NjAyMzI1MDQ4fQ==?map=54.3941118,18.5696288,15,normal&ref=facebook&link=unknown&fb_locale=pl_PL"><mapa></a>
+
+
+        <a href="https://www.facebook.com/events/2154809264777056/">wydarzenie
+        na FB</a>
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -42,12 +31,10 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: Zabawa do rana!
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Przerwy taneczne to świetny sposób na małą odskocznię i chwilową zmianę
+    klimatu dla wszystkich tańczących.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
@@ -58,42 +45,44 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Katarzyna Namroz
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      Najlepsza impreza na jakiej byłam! Można posłuchać i pośpiewać do
+      świetnych kawałków a jak wszyscy się rozkręcą to jest świetna okazja do
+      potańczenia aż do rana. Staram się wracać jak tylko mogę.
+  - author: Przemek Bajeczny
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      Mary Jane Razor, czyli Żyleta jak ktoś woli, prowadzi imprezy karaoke w
+      profesjonalny sposób. Ma dobrej jakości podkłady.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Co mogę dla Ciebie zrobić?
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    Podchodzę profesjonalnie do swoich obowiązków ale prowadzenie imprez karaoke
+    sprawia i też ogromną przyjemność - dlatego właśnie na moich imprezach
+    Goście tak świetnie się bawią.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Imprezy dla rozśpiewanych
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+        - dużo kawałków do wyboru
+        - wysokiej jakości podkłady
+        - lista piosenek do wyboru
+      plan: Karaoke
+      price: '350'
+    - description: >-
+        Dla szukających okazji do potańczenia przy lubianych hitach lat 90 i
+        współczesnych
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - muzyka taneczna (brak techno
+        - disco polo itd)
+        - przeboje imprezowe lat 90 i współczesne
+      plan: Impreza
+      price: '350'
+    - description: Prowadzenie imprezy w sposób połączony w zależności od oczekiwań
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
+        - przeplatanie karaoke tzw. przerwami tanecznymi
+        - indywidualne podejście
+      plan: karaoke & party
       price: '??'
 ---
 
