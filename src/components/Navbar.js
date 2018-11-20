@@ -9,7 +9,7 @@ const Navbar = () => (
       <div className="navbar-brand">
         <Link to="/" className="navbar-item">
           <figure className="image">
-            <img src={logo} alt="Kaldi" style={{ width: '88px' }} />
+            <img src={logo} alt="Mary Jane Razor Karaoke" style={{ width: '88px' }} />
           </figure>
         </Link>
       </div>
@@ -28,7 +28,7 @@ const Navbar = () => (
         </Link>
       </div>
       <div className="navbar-end">
-        {/* <a
+        <a
           className="navbar-item"
           href="https://www.facebook.com/MaryJaneRazorKaraoke/"
           target="_blank"
@@ -37,7 +37,7 @@ const Navbar = () => (
           <span className="icon">
             <img src={facebook} alt="Facebook" />
           </span>
-        </a> */}
+        </a>
         <div className="fb-like" data-href="https://www.facebook.com/MaryJaneRazorKaraoke/" data-layout="button" data-action="like" data-size="large" data-show-faces="true" data-share="false"></div>
       </div>
     </div>
