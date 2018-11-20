@@ -24,7 +24,7 @@ const Navbar = () => (
           Kontakt
         </Link>
         <Link className="navbar-item" to="/kontakt/examples">
-          Form Examples
+          Examples
         </Link>
       </div>
       <div className="navbar-end">
