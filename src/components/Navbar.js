@@ -1,7 +1,7 @@
-import React from 'react'
-import { Link } from 'gatsby'
-import facebook from '../img/facebook-icon.svg'
-import logo from '../img/logo.svg'
+import React from "react";
+import { Link } from "gatsby";
+import facebook from "../img/facebook-icon.svg";
+import logo from "../img/logo.svg";
 
 const Navbar = () => (
   <nav className="navbar is-transparent">
@@ -9,7 +9,11 @@ const Navbar = () => (
       <div className="navbar-brand">
         <Link to="/" className="navbar-item">
           <figure className="image">
-            <img src={logo} alt="Mary Jane Razor Karaoke" style={{ width: '88px' }} />
+            <img
+              src={logo}
+              alt="Mary Jane Razor Karaoke"
+              style={{ width: "88px" }}
+            />
           </figure>
         </Link>
       </div>
@@ -38,10 +42,18 @@ const Navbar = () => (
             <img src={facebook} alt="Facebook" />
           </span>
         </a>
-        <div className="fb-like" data-href="https://www.facebook.com/MaryJaneRazorKaraoke/" data-layout="button" data-action="like" data-size="large" data-show-faces="true" data-share="false"></div>
+        <div
+          className="fb-like"
+          data-href="https://www.facebook.com/MaryJaneRazorKaraoke/"
+          data-layout="button"
+          data-action="like"
+          data-size="large"
+          data-show-faces="true"
+          data-share="false"
+        />
       </div>
     </div>
   </nav>
-)
+);
 
-export default Navbar
+export default Navbar;
