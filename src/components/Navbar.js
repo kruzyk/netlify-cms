@@ -39,16 +39,16 @@ const Navbar = () => (
           </span>
         </a> */}
         <div id="fb-root"></div>
-        <script dangerouslySetInnerHTML={{
-        __html: `(function(d, s, id) {
-          var js, fjs = d.getElementsByTagName(s)[0];
-          if (d.getElementById(id)) return;
-          js = d.createElement(s); js.id = id;
-          js.src = 'https://connect.facebook.net/pl_PL/sdk.js#xfbml=1&version=v3.2&appId=226864780659472&autoLogAppEvents=1';
-          fjs.parentNode.insertBefore(js, fjs);
-        }(document, 'script', 'facebook-jssdk'));`
-      }}
-  />
+
+        <script dangerouslySetInnerHTML= {{ __html: ` 
+          (function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = 'https://connect.facebook.net/pl_PL/sdk.js#xfbml=1&version=v3.2&appId=226864780659472&autoLogAppEvents=1';
+            fjs.parentNode.insertBefore(js, fjs);
+          }(document, 'script', 'facebook-jssdk')); `}} />
+          
         <div className="fb-like" data-href="https://www.facebook.com/MaryJaneRazorKaraoke/" data-layout="button" data-action="like" data-size="large" data-show-faces="true" data-share="false"></div>
 
       </div>
