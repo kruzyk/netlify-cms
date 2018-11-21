@@ -43,7 +43,7 @@ const Navbar = () => (
           </span>
         </a>
         <div
-          className="fb-like"
+          className="navbar-item"
           data-href="https://www.facebook.com/MaryJaneRazorKaraoke/"
           data-layout="button"
           data-action="like"
