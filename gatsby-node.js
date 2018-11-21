@@ -85,6 +85,8 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
     })
   }
 }
+
+// code below adds compression:
 const fs = require('fs');
 const zlib = require('zlib');
 const iltorb = require('iltorb');
