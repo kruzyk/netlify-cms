@@ -1,4 +1,4 @@
-# Gatsby + Netlify CMS Starter
+# karaoke-3city.pl with Gatsby + Netlify CMS Starter
 
 **Note:** This starter uses the [Gatsby v2 Beta](https://www.gatsbyjs.org/blog/2018-06-16-announcing-gatsby-v2-beta-launch/).
 
