@@ -17,11 +17,6 @@ export default class Index extends React.Component {
                 <li><Link to="/kontakt">Formularz kontaktowy</Link></li>
                 <li><Link to="/kontakt/file-upload/">Formularz do przesłania podkładu *.KNF</Link></li>
               </ul>
-              <!--
-              <h2>Troubleshooting</h2>
-              <h3>Forms stop working after upgrading to Gatsby v2</h3>
-              <p>This can be caused by the offline-plugin. <a href="https://github.com/gatsbyjs/gatsby/issues/7997#issuecomment-419749232">Workaround</a> is to use <code>?no-cache=1</code> in the POST url to prevent the service worker from handling form submissions</p>
-              -->
             </div>
           </div>
         </section>
