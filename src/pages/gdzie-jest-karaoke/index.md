@@ -28,7 +28,7 @@ main:
     Pamiętaj, impreza zaczyna się od 21:00 i między innymi od Ciebie zależy, do
     której godziny będziemy się bawić :)
   image1:
-    alt: ''
+    alt: Mikrofon czekający na wykonawcę
     image: /img/5492170469_5154f67770_b.jpg
   image2:
     alt: ''
