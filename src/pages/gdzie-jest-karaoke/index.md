@@ -28,14 +28,14 @@ main:
     Pamiętaj, impreza zaczyna się od 21:00 i między innymi od Ciebie zależy, do
     której godziny będziemy się bawić :)
   image1:
-    alt: Mikrofon czekający na wykonawcę
-    image: /img/5492170469_5154f67770_b.jpg
+    alt: Ludzie bawią się na imprezie
+    image: /img/karaoke-1080x658.jpg
   image2:
-    alt: ''
-    image: ''
+    alt: Goście śpiewają karaoke
+    image: /img/image.jpg
   image3:
-    alt: ''
-    image: ''
+    alt: Dwa pokale piwa
+    image: /img/two-pints-beer-main.jpg
 testimonials: []
 full_image: /img/12698616_1560534740904505_542198214049005302_o.jpg
 pricing:
