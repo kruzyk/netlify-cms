@@ -18,10 +18,13 @@ const Navbar = () => (
         </Link>
       </div>
       <div className="navbar-start">
-        <Link className="navbar-item" to="/about">
-          Info
+       <Link className="navbar-item" to="/gdzie-jest-karaoke">
+          Gdzie na karaoke?
         </Link>
-        <Link className="navbar-item" to="/products">
+        <Link className="navbar-item" to="/prowadzenie-imprez">
+          Prowadzenie imprez
+        </Link>
+        <Link className="navbar-item" to="/mary-jane-razor">
           Mary Jane Razor
         </Link>
         <Link className="navbar-item" to="/kontakt">
