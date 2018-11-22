@@ -46,11 +46,12 @@ export default class Contact extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-        <h1>File Upload</h1>
+        <h1>Przesyłanie pliku</h1>
+        <p>Jeżeli masz fajny, dobrej jakości podkład w formacie *.<strong>KNF</strong> (z dopasowanym tekstem) niżej możesz go do mnie przesłać.</p>
         <form
           name="file-upload"
           method="post"
-          action="/contact/thanks/"
+          action="/kontakt/thanks/"
           data-netlify="true"
           data-netlify-honeypot="bot-field"
           onSubmit={this.handleSubmit}
@@ -59,12 +60,12 @@ export default class Contact extends React.Component {
           <input type="hidden" name="form-name" value="file-upload" />
           <div hidden>
             <label>
-              Don’t fill this out:{" "}
+              Nie wypełniaj tego:{" "}
               <input name="bot-field" onChange={this.handleChange} />
             </label>
           </div>
           <div className="field">
-            <label className="label" htmlFor={"name"} >Your name</label>
+            <label className="label" htmlFor={"name"} >Twoje imię</label>
             <div className="control">
               <input className="input" type={"text"} name={"name"} onChange={this.handleChange} id={"name"} required={"true"} />
             </div>
@@ -80,14 +81,14 @@ export default class Contact extends React.Component {
               />
               <span className="file-cta">
                 <span className="file-label">
-                  Choose a file…
+                  Wybierz plik…
                 </span>
               </span>
             </label>
           </div>
           </div>
           <div className="field">
-            <button className="button is-link" type="submit">Send</button>
+            <button className="button is-link" type="submit">Prześlij</button>
           </div>
         </form>
         </div>
