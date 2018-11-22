@@ -1,15 +1,17 @@
 ---
 templateKey: about-page
-title: Prowadzenie imprez
+title: Mary Jane Razor
 ---
-### Impreza taneczna?
+### Kim jestem?
 
-Jeżeli chcesz się wyszaleć i wytańczyć zapraszam Cię na jedną z imprez, które prowadzę.
+Prowadzę imprezy karaoke w Gdańsku łącznie ponad 6 lat w takich miejscach jak Pub Irish, klub studencki Autsajder, Ygrek czy Xkwadrat. Byłam jurorem w cyklicznie prowadzonym konkursie karaoke w klubogalerii Bunkier.
 
-### a może karaoke?
+Wiele lat śpiewałam w zespołach rockowych, takich jak np. Bloody Cookies, Born In The PRL. Graliśmy koncerty, nagrywaliśmy płyty.
 
-Lubisz śpiewać? Być może chciałbyś sprawdzić swój wokal wśród szerszej publiczności? Przyjdź na imprezę karaoke.
+Wraz z zespołem Born In The PRL wystąpiłam na koncercie na Euro 2012.
 
-### karaoke & party
+Posiadam doświadczenie w prowadzeniu wesel wraz z zespołem weselnym.
 
-Największą popularnością cieszą się imprezy karaoke przerywane setami tanecznymi. W zależności od ilości osób zainteresowanych śpiewaniem co pewną ilość utworów karaoke robię tzw. przerwę taneczną. Jest to idealny moment żeby rzucić się w wir tańca na parkiecie.
+### Jak prowadzę karaoke?
+
+Najlepiej przekonać się przychodząc na imprezę :)
