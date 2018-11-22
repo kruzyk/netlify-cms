@@ -42,15 +42,6 @@ const Navbar = () => (
             <img src={facebook} alt="Facebook" />
           </span>
         </a>
-        <div
-          className="navbar-item fb-like"
-          data-href="https://www.facebook.com/MaryJaneRazorKaraoke/"
-          data-layout="button"
-          data-action="like"
-          data-size="large"
-          data-show-faces="true"
-          data-share="false"
-        />
       </div>
     </div>
   </nav>
