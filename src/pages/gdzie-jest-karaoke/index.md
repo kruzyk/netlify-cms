@@ -29,7 +29,7 @@ main:
     której godziny będziemy się bawić :)
   image1:
     alt: ''
-    image: ''
+    image: /img/5492170469_5154f67770_b.jpg
   image2:
     alt: ''
     image: ''
