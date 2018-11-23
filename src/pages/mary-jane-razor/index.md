@@ -17,3 +17,5 @@ Posiadam doświadczenie w prowadzeniu wesel wraz z zespołem weselnym.
 ### Jak prowadzę karaoke?
 
 Najlepiej przekonać się przychodząc na imprezę :)
+
+![Mikrofon gotowy do karaoke](/img/mikrofon-karaoke.jpg)
