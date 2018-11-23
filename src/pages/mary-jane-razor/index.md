@@ -8,7 +8,7 @@ Prowadzę imprezy karaoke w Gdańsku łącznie ponad 6 lat w takich miejscach ja
 
 Od czasu do czasu gram w weekendy lub na imprezach zamkniętych.
 
-Wiele lat śpiewałam w zespołach rockowych, takich jak np. Bloody Cookies, Born In The PRL. Graliśmy koncerty, nagrywaliśmy płyty.
+Wiele lat śpiewałam w zespołach rockowych, takich jak np. Bloody Cookies, Born In The PRL.
 
 Wraz z zespołem Born In The PRL wystąpiłam na koncercie na Euro 2012.
 
