@@ -6,6 +6,8 @@ title: Mary Jane Razor
 
 Prowadzę imprezy karaoke w Gdańsku łącznie ponad 6 lat w takich miejscach jak Pub Irish, klub studencki Autsajder, Ygrek czy Xkwadrat. Byłam jurorem w cyklicznie prowadzonym konkursie karaoke w klubogalerii Bunkier.
 
+Od czasu do czasu gram w weekendy lub na imprezach zamkniętych.
+
 Wiele lat śpiewałam w zespołach rockowych, takich jak np. Bloody Cookies, Born In The PRL. Graliśmy koncerty, nagrywaliśmy płyty.
 
 Wraz z zespołem Born In The PRL wystąpiłam na koncercie na Euro 2012.
