@@ -33,3 +33,5 @@ ABC
 > Nie wszystkie utwory, które posiadam znajdują się na liście. Lista piosenek jest systematycznie rozszerzana o nowe utwory.
 >
 > Nie ma Twojej piosenki na liście? Napisz do mnie, może już ją mam :)
+
+#### [Pobierz listę w formacie PDF](lista-karaoke.pdf)
