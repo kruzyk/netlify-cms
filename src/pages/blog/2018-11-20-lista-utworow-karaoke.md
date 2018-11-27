@@ -410,4 +410,4 @@ Aretha Franklin - Respect
 >
 > Nie ma Twojej piosenki na liście? Napisz do mnie, może już ją mam :)
 
-#### [Pobierz listę w formacie PDF](lista-karaoke.pdf)
+#### [Pobierz listę w formacie PDF](https://www.karaoke-3city.pl/src/lista-karaoke.pdf)
