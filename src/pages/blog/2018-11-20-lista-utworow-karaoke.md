@@ -196,7 +196,51 @@ Anna Maria Jopek - Na Dłoni
 
 Antek Smykiewicz - Pomimo burz
 
+Arka Noego - Stary Abraham
 
+Arka Noego - Taki duży taki mały
+
+Arka Noego - Uwielbiam Cię
+
+Artur Gadowski - Ona jest ze snu
+
+Artur Gadowski - Szczęśliwego Nowego Jorku
+
+Aya Rl – Skóra
+
+Bajm - Biała armia
+
+Bajm - Co mi Panie dasz
+
+Bajm - Dwa serca dwa smutki
+
+Bajm - Dziesięć Przykazań
+
+Bajm - Józek nie daruje ci tej nocy
+
+Bajm - Krótka historia
+
+Bajm - Modlitwa o złoty deszcz
+
+Bajm - Myśli i słowa
+
+Bajm - Nie ma wody na pustyni
+
+Bajm - Noc po cieżkim dniu
+
+Bajm - Piechotą do lata
+
+Bajm - Płynie w nas gorąca krew
+
+Bajm - Szklanka Wody
+
+Bajm - Ta sama chwila
+
+Bajm - Zabierz mnie tam
+
+Bajm Universe - Tyle chciałem Ci dać
+
+Banda i Wanda - Hi-Fi
 
 
 
