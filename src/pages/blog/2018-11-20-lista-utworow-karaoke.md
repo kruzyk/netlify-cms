@@ -16,9 +16,189 @@ Wszystkie podkłady są w dobrej jakości, nie używam podkładów MIDI.
 
 ## Lista polskich piosenek
 
-ABC
+4 ever - To następna laska
 
-ABC
+Abradab - Miasto jest nasze
+
+Acapulco - Czy Ty wiesz
+
+Ada Krawczyk - Weselny klimat
+
+Adam - Ból
+
+Adam Band - Teraz jest wojna
+
+Adam Chrola - Samba Magdalena
+
+After Party - Bujaj się
+
+After Party - Nie daj życiu się
+
+After Party - Tylko ona jedyna
+
+Agnieszka Chylinska - Nie mogę cię zapomnieć
+
+Agnieszka Chylińska - Królowa łez
+
+Agnieszka Chylińska - Winna
+
+Agnieszka Osiecka - Dobranoc panowie
+
+Agnieszka Osiecka - Ukradła Cyganka kurę
+
+Akcent - Biała mewa
+
+Akcent - Biorę urlop od Ciebie
+
+Akcent - Czarne oczy Twe
+
+Akcent - Czemu jesteś taka dziewczyno
+
+Akcent - Dziewczyna z klubu disco
+
+Akcent - Dziewczyna ze snu
+
+Akcent - Dźwięki strun
+
+Akcent - Figlarka
+
+Akcent - Gdzie jesteś gdzie
+
+Akcent - Gwiazda
+
+Akcent - Iwona
+
+Akcent - Jeszcze poczekajmy
+
+Akcent - Kołysanka dla ukochanej
+
+Akcent - Królowa nocy
+
+Akcent - Laura
+
+Akcent - Oczarowałaś mnie
+
+Akcent - Pada deszcz
+
+Akcent - Pocałunek
+
+Akcent - Pragnienie miłości
+
+Akcent - Przekorny los
+
+Akcent - Przez twe oczy zielone
+
+Akcent - Psotny wiatr
+
+Akcent - Pszczółka Maja
+
+Akcent - Wspomnienie
+
+Akcent - Żegnaj mała
+
+Akurat - Dyskoteka Gra
+
+Akurat - Lubię mówić z Tobą
+
+Al Bano & Romina Power - Ci sara Ty i ja
+
+Ala Nie Wali Mu Pały
+
+Alicja Janosz - Może sie wydawać
+
+Alicja Majewska - Być kobietą
+
+Alicja Majewska - Jeszcze się tam żagiel bieli
+
+Alicja Majewska - Przed nocą i mgłą
+
+Amadeo - Letni wiatr
+
+Andrzej Cierniewski - Dwie morgi słońca
+
+Andrzej Cierniewski - Tu jest Twoje miejsce
+
+Andrzej Dąbrowski - Do zakochania jeden krok
+
+Andrzej Piaseczny -  Chodź, przytul, przebacz
+
+Andrzej Piaseczny - 15 dni
+
+Andrzej Piaseczny - Imię deszczu
+
+Andrzej Piaseczny - Szczęście jest blisko
+
+Andrzej Piaseczny - Śniadanie Do Łóżka
+
+Andrzej Piaseczny - Z głębi duszy
+
+Andrzej Piaseczny, R. Chojnacki - Niecierpliwi
+
+Andrzej Rosiewicz - 40 Lat Mineło
+
+Andrzej Rosiewicz - Chłopcy radarowcy
+
+Andrzej Rybiński - Wschodami gwiazd i zachodami
+
+Andrzej Zaucha - Ach te baby
+
+Andrzej Zaucha - Alibaba
+
+Andrzej Zaucha - Bądź Moim Natchnieniem
+
+Andrzej Zaucha - Byłaś serca biciem
+
+Andrzej Zaucha - C'est la vie
+
+Andrzej Zaucha - Dzień dobry Mr. Blues
+
+Andrzej Zaucha - Siódmy rok
+
+Ania Dąbrowska - Charlie Charlie
+
+Ania Dąbrowska - Czekam
+
+Ania Dąbrowska - Musisz wierzyć
+
+Ania Dąbrowska - Trudno mi się przyznać
+
+Ania Wyszkoni - Czy ten pan i pani
+
+Ania Wyszkoni - Graj chłopaku, graj
+
+Ania Wyszkoni - Lampa i Sofa
+
+Ania Wyszkoni - Wiem, że jesteś tam
+
+Anita Lipnicka - Historia jednej miłości
+
+Anita Lipnicka - Piękna i rycerz
+
+Anna Jantar - Baju Baj
+
+Anna Jantar - Przetańczyć z Toba chcę
+
+Anna Jantar - Radosc najpiekniejszych lat
+
+Anna Jantar - Tyle słońca w całym mieście
+
+Anna Jantar - Tylko mnie poproś do tańca
+
+Anna Jantar - Wielka dama tańczy sama
+
+Anna Jantar - Zawsze gdzieś czeka ktoś
+
+Anna Maria Jopek - Ale jestem
+
+Anna Maria Jopek - Ja wysiadam
+
+Anna Maria Jopek - Na Dłoni
+
+Antek Smykiewicz - Pomimo burz
+
+
+
+
 
 > Nie wszystkie utwory, które posiadam znajdują się na liście. Lista piosenek jest systematycznie rozszerzana o nowe utwory.
 >
@@ -26,9 +206,161 @@ ABC
 
 ## Lista zagranicznych utworów
 
-ABC
+3 Doors Down - Be Like That
 
-ABC
+3 Doors Down - Here Without You
+
+3 Doors Down - Kryptonite
+
+3 Doors Down - When I'm gone
+
+4 Non Blondes - What's Up
+
+4 The Cause - Stand by me
+
+5'nizza - Soldat
+
+ABBA - Chiquitita
+
+ABBA - Dancing queen
+
+ABBA - Fernando
+
+ABBA - Gimme, gimme, gimme
+
+ABBA - Happy New Year
+
+ABBA - Hasta mañana
+
+ABBA - Honey Honey
+
+ABBA - I do, I do, I do, I do
+
+ABBA - Mamma Mia
+
+ABBA - SOS
+
+ABBA - Super Trouper
+
+ABBA - The winner takes it all
+
+ABC - Look of love
+
+ACDC - Back in black
+
+ACDC - Highway To Hell
+
+ACDC - Whole lotta rosie
+
+ACDC - You shook me all night long
+
+Ace of Base - All that she wants
+
+Ace of Base - Dont turn around
+
+Adam Lambert - Ghost Town
+
+Adele - Rolling In The Deep
+
+Adele - Set Fire To The Rain
+
+Adele - Someone like You
+
+Aerials - System Of A Down
+
+Aerosmith - Dream on
+
+Aerosmith - I Don't Want To Miss A Thing
+
+Aerosmith - Sweet emotion
+
+Afromental - Pray 4 love
+
+Aha - Take on me
+
+Akcent (zagraniczny) - Kylie
+
+Akon - Lonely
+
+Alanis Morissette - Crazy
+
+Alanis Morissette - Hand in my pocket
+
+Alanis Morissette - Hands clean
+
+Alanis Morissette - Head Over Feet
+
+Alanis Morissette - Thank you
+
+Alannah Myles - Black velvet
+
+Albano e Romina - Felicita
+
+Alexandra Durke - Hallelujah
+
+Alexz Johnson - Skin
+
+Alice Cooper - Be my lover
+
+Alice Cooper - Elected
+
+Alice Cooper - No more mr nice guy
+
+Alice Cooper - Poison
+
+Alice Cooper - Welcome to my nightmare
+
+Alice DeeJay - Better Off Alone
+
+Alice in Chains - Man In The Box
+
+Alicia Keys - If I Ain't Got You
+
+Alicia Keys - No one
+
+Alien Ant Farm - Smooth Criminal
+
+All 4 One - I Swear
+
+All Saints - Never Ever
+
+Alphaville - Big in Japan
+
+Alphaville - Forever Young
+
+Amy Winehouse - Back To Black
+
+Amy Winehouse - Rehab
+
+Amy Winehouse - Valerie
+
+Amy Winehouse - You know that I'm no good
+
+Anastacia - Left Outside Alone
+
+Anastacia - Sick & tired
+
+Andrea Bocelli, Sara Brightman - Time To Say Goodbye
+
+Animals - House of the rising sun
+
+Anne Lee - Two times
+
+Anouk - Nobody's Wife
+
+Aqua - Barbie Girl
+
+Aqua - Candy man
+
+Arctic Monkeys - Crying Lightning
+
+Arctic Monkeys - Do I wanna know
+
+Arctic Monkeys - I Bet You Look Good On The Dancefloor
+
+Aretha Franklin - Respect
+
+
 
 > Nie wszystkie utwory, które posiadam znajdują się na liście. Lista piosenek jest systematycznie rozszerzana o nowe utwory.
 >
