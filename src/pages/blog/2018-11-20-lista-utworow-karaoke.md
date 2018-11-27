@@ -36,9 +36,9 @@ After Party - Nie daj życiu się
 
 After Party - Tylko ona jedyna
 
-Agnieszka Chylinska - Nie mogę cię zapomnieć
-
 Agnieszka Chylińska - Królowa łez
+
+Agnieszka Chylińska - Nie mogę cię zapomnieć
 
 Agnieszka Chylińska - Winna
 
@@ -104,7 +104,7 @@ Al Bano & Romina Power - Ci sara Ty i ja
 
 Ala Nie Wali Mu Pały
 
-Alicja Janosz - Może sie wydawać
+Alicja Janosz - Może się wydawać
 
 Alicja Majewska - Być kobietą
 
@@ -134,7 +134,7 @@ Andrzej Piaseczny - Z głębi duszy
 
 Andrzej Piaseczny, R. Chojnacki - Niecierpliwi
 
-Andrzej Rosiewicz - 40 Lat Mineło
+Andrzej Rosiewicz - 40 Lat Minęło
 
 Andrzej Rosiewicz - Chłopcy radarowcy
 
@@ -176,9 +176,9 @@ Anita Lipnicka - Piękna i rycerz
 
 Anna Jantar - Baju Baj
 
-Anna Jantar - Przetańczyć z Toba chcę
+Anna Jantar - Przetańczyć z Tobą chcę
 
-Anna Jantar - Radosc najpiekniejszych lat
+Anna Jantar - Radość najpiękniejszych lat
 
 Anna Jantar - Tyle słońca w całym mieście
 
@@ -226,7 +226,7 @@ Bajm - Myśli i słowa
 
 Bajm - Nie ma wody na pustyni
 
-Bajm - Noc po cieżkim dniu
+Bajm - Noc po ciężkim dniu
 
 Bajm - Piechotą do lata
 
@@ -241,6 +241,148 @@ Bajm - Zabierz mnie tam
 Bajm Universe - Tyle chciałem Ci dać
 
 Banda i Wanda - Hi-Fi
+
+Bayer Full - Blondyneczka
+
+Bayer Full - Majteczki w kropeczki
+
+Bayer Full - Wszyscy Polacy
+
+Bayer full - Żywieckie full
+
+Beata Kozidrak - Taka Warszawa
+
+Beata Kozidrak i Bajm - Rzeka marzeń
+
+Biesiada - Gdybym miał gitarę
+
+Biesiada - Hej bystra woda
+
+Biesiada - Hej sokoły
+
+Biesiada - My cyganie
+
+Big Cyc - Dres
+
+Big Cyc - Facet to świnia
+
+Big Cyc - Guma
+
+Big Cyc - Kiepskich świat
+
+Big Cyc - Makumba
+
+Big Cyc - Rudy się żeni
+
+Big Cyc - Shazza
+
+Big Dance - Czerwone i bure
+
+Big Day - W dzień gorącego lata
+
+Blenders - Ciągnik
+
+Blenders - Punkt G
+
+Blue Cafe - Do nieba
+
+Blue Cafe - Love Song
+
+Blue Cafe- Buena
+
+Bogdan Łazuka - Już taki jestem zimny drań
+
+Bogusław Mec - Jej portret
+
+Bolter - Daj mi tę noc
+
+Borysewicz Kukiz - Bo tutaj jest jak jest
+
+Borysewicz Kukiz - Jest taki dzień
+
+Borysewicz Kukiz - Niby jestem Niby nie
+
+Borysewicz Kukiz- Jeśli tylko chcesz
+
+Boys - A ja się teraz bawię
+
+Boys - Biba
+
+Boys - Bliskość twego serca
+
+Boys - Chłop z Mazur
+
+Boys - Chwile dwie
+
+Boys - Figo fago
+
+Boys - Jagódka
+
+Boys - Jaki piękny świat
+
+Boys - Jesteś szalona
+
+Boys - Kochana uwierz mi
+
+Boys - Miałaś 18 lat
+
+Boys - Miłość
+
+Boys - Na opolskim rynku
+
+Boys - Niebo w gębie
+
+Boys - Ty tylko ty
+
+Boys - Wolność
+
+Boys - Wspólne inicjały
+
+Bracia Cugowscy - Za szkłem
+
+Bracia Figo Fagot - Bożenko
+
+Bracia Figo Fagot - Heteromagnes
+
+Bracia Figo Fagot - Janko Janeczko
+
+Bracia Figo Fagot - Już polane stoi szkło
+
+Bracia Figo Fagot - Pisarz miłości
+
+Bracia Figo Fagot - Wóda zryje banie
+
+Bracia Figo Fagot - Zobacz dziwko co narobiłaś
+
+Brathanki - Czerwone korale
+
+Brathanki - Heniek
+
+Brathanki - W kinie, w Lublinie
+
+Brathanki - Wesele
+
+Brathanki - Wiła wianki
+
+Brathanki - Za wielkim morzem Ty
+
+Breakout - Kiedy Byłem Małym Chłopcem
+
+Budka Suflera - Bal wszystkich świętych
+
+Budka Suflera - Cisza jak ta
+
+Budka Suflera - Demony wojny
+
+Budka Suflera - Nie wierz nigdy kobiecie
+
+Budka Suflera - Piąty bieg
+
+Budka Suflera - Sen o dolinie
+
+Budka Suflera - Takie tango
+
+Budka Suflera- Jolka Jolka
 
 
 
