@@ -30,6 +30,8 @@ Adam Band - Teraz jest wojna
 
 Adam Chrola - Samba Magdalena
 
+Afromental - Pray 4 love
+
 After Party - Bujaj się
 
 After Party - Nie daj życiu się
@@ -459,8 +461,6 @@ Aerosmith - Dream on
 Aerosmith - I Don't Want To Miss A Thing
 
 Aerosmith - Sweet emotion
-
-Afromental - Pray 4 love
 
 Aha - Take on me
 
