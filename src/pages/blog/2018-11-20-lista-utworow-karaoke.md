@@ -201,7 +201,122 @@ Wszystkie podkłady są w dobrej jakości, nie używam podkładów MIDI.
 * Budka Suflera - Sen o dolinie
 * Budka Suflera - Takie tango
 * Budka Suflera- Jolka Jolka
-* 
+* Cezary Makiewicz, Koltersi - Wszystkie drogi prowadzą do Mrągowa
+* Chryzantemy złociste
+* Chwytak & Letni Chamski Podryw - Winda
+* Cleo - Łowcy gwiazd
+* Cliver - Chodź kochanie
+* Cliver - Pokaż jak się kręcisz
+* Cliver - Zaufaj mi
+* Cliver & MIG - Pijemy do samego dna
+* Coma - Leszek Żukowski
+* Coma - Los cebula i krokodyle łzy
+* Coma - Nie wierzę skurwysynom
+* Coma - Pierwsze Wyjście Z Mroku
+* Coma - Spadam
+* Coma - Wola istnienia
+* Czadoman - Ruda tańczy jak szalona
+* Czarno Czarni - Nogi
+* Czerwone Gitary - Anna Maria
+* Czerwone Gitary - Ciągle pada
+* Czerwone Gitary - Jeden dzień w roku
+* Czerwone Gitary - Nie zadzieraj nosa
+* Czerwone Gitary - Powiedz stary gdzieś ty był
+* Czerwone Gitary - Takie ładne oczy
+* Czerwone Gitary - Wróćmy nad jeziora
+* Czerwony Tulipan - Jedyne co mam
+* Czesław Niemen - Pod Papugami
+* Czesław Niemen - Sen o Warszawie
+* Czesław Niemen - Wspomnienie
+* Czesław Śpiewa - Maszynka do świerkania
+* Czesław Śpiewa - W sam raz
+* Daab - Ogrodu serce
+* Danuta Rinn - Gdzie ci mężczyźni
+* Dawid Podsiadło - Nieznajomy
+* Dawid Podsiadło - Trójkąty i kwadraty
+* Dawid Podsiadło - W dobrą stronę
+* De Mono - Kochać inaczej
+* De Mono - Póki na to czas
+* De Mono - Statki na niebie
+* De Press - Bo jo Cie kochom
+* Doda - Dwie bajki
+* Doda - Dziękuję
+* Doda - Nie daj się
+* Doda - Ostatni raz Ci zaśpiewam
+* Doda - Rany
+* Doda - Szansa
+* Donatan  ft. Cleo & Sitek - Cicha woda
+* Donatan & Cleo - Brać (feat. Enej)
+* Donatan & Cleo - My Słowianie
+* Donatan & Maryla Rodowicz - Pełnia
+* Doniu & Liber feat. Kombii - Nasze randez vous
+* Dwa plus Jeden - Na luzie
+* Dwa plus Jeden - Windą  do  nieba
+* Dwa plus Jeden- Chodź, Pomaluj Mój Świat
+* Dżem - Czerwony jak cegła
+* Dżem - Do kołyski
+* Dżem - List do M
+* Dżem - Paw
+* Dżem - Sen o Victorii
+* Dżem - W życiu piękne są tylko chwile
+* Dżem - Whisky
+* Dżem - Wehikuł czasu
+* Edyta Bartosiewicz - Jenny
+* Edyta Bartosiewicz - Ostatni
+* Edyta Bartosiewicz - Szał
+* Edyta Bartosiewicz - Tatuaż
+* Edyta Bartosiewicz - Zegar
+* Edyta Geppert - Jaka róża, taki cierń
+* Edyta Geppert - Oh, życie
+* Edyta Geppert - Szukaj mnie
+* Edyta Górniak - Jestem kobietą
+* Edyta Górniak - Kolorowy wiatr
+* Edyta Górniak - List
+* Edyta Górniak - To nie ja
+* Edyta Górniak - To nie tak jak myślisz
+* Edyta Górniak & Mietek Szcześniak - Dumka na dwa serca
+* Elektryczne Gitary - Co ty tutaj robisz
+* Elektryczne Gitary - Człowiek z liściem
+* Elektryczne Gitary - Dzieci
+* Elektryczne Gitary - Jestem z miasta
+* Elektryczne Gitary - Koniec
+* Elektryczne Gitary - Wytraciłaś mnie z równowagi
+* Eleni - A słońce sobie lśni
+* Eleni - Troszeczkę ziemi
+* Emigranci - Na falochronie
+* Enej - Dzisiaj będę ja
+* Enej - Kamień z napisem Love
+* Enej - Lili
+* Enej - Nie chcę spać
+* Enej - Radio Hello
+* Enej - Skrzydlate ręce
+* Enej - Symetryczno-liryczna
+* Enej - Tak smakuje życie
+* Enej - Ulice
+* Enej - Zbudujemy dom
+* Enej - Żyje się raz
+* Ewa Bem - Moje serce to jest muzyk
+* Ewa Bem - Podaruj mi trochę słońca
+* Ewa Bem - Wyszłam za mąż zaraz wracam
+* Ewa Farna - Bez Łez
+* Ewa Farna - Cicho
+* Ewelina Flinta - Nie znasz mnie
+* Ewelina Flinta - Żałuję
+* Ewelina Flinta, Ł. Zagrobelny - Nie kłam, że kochasz mnie
+* Ewelina Lisowska - Nieodporny rozum
+* Ewelina Lisowska - W stronę słońca
+* Ewelina Lisowska - We mgle
+* Farba - Chcę tu zostać
+* Fasolki - Kaczka dziwaczka
+* Fasolki - Ogórek
+* Feel - A gdy jest już ciemno
+* Feel - Jak anioła głos
+* Feel - No kochaj mnie
+* Feel - Pokaż mi niebo
+* Feel - Pokaż na co cię stać
+* Feel - Pokonam siebie
+* Feel - To długa rzeka
+
 
 > Nie wszystkie utwory, które posiadam znajdują się na liście. Lista piosenek jest systematycznie rozszerzana o nowe utwory.
 >
@@ -291,4 +406,4 @@ Wszystkie podkłady są w dobrej jakości, nie używam podkładów MIDI.
 >
 > Nie ma Twojej piosenki na liście? Napisz do mnie, może już ją mam :)
 
-#### Pobierz listę w formacie PDF
+#### [Pobierz listę w formacie PDF](https://www.karaoke-3city.pl/lista-karaoke.pdf)
