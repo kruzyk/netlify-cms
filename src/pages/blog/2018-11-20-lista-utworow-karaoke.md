@@ -316,6 +316,11 @@ Wszystkie podkłady są w dobrej jakości, nie używam podkładów MIDI.
 * Feel - Pokaż na co cię stać
 * Feel - Pokonam siebie
 * Feel - To długa rzeka
+* Focus - Absolutnie Ty
+* Formacja Nieżywych Schabuff - Da da da
+* Formacja Nieżywych Schabuff - Ławka
+* Franek Kimono - King Bruce Lee karate mistrz
+* Friends - Nauczę Cię żyć
 
 
 > Nie wszystkie utwory, które posiadam znajdują się na liście. Lista piosenek jest systematycznie rozszerzana o nowe utwory.
@@ -372,7 +377,7 @@ Wszystkie podkłady są w dobrej jakości, nie używam podkładów MIDI.
 * Alexz Johnson - Skin
 * Alice Cooper - Be my lover
 * Alice Cooper - Elected
-* Alice Cooper - No more mr nice guy
+* Alice Cooper - No more Mr nice guy
 * Alice Cooper - Poison
 * Alice Cooper - Welcome to my nightmare
 * Alice DeeJay - Better Off Alone
@@ -400,7 +405,218 @@ Wszystkie podkłady są w dobrej jakości, nie używam podkładów MIDI.
 * Arctic Monkeys - Do I wanna know
 * Arctic Monkeys - I Bet You Look Good On The Dancefloor
 * Aretha Franklin - Respect
-* 
+* Armin van Buuren - This is what it feels like
+* Augustana - Boston
+* Avici -  Wake me up
+* Avici - Hey Brother
+* Avicii - Addicted to You
+* Avril Lavigne - Complicated
+* Avril Lavigne - Girlfriend
+* Avril Lavigne - I'm With You
+* Awolnation - Sail
+* Backstreet Boys - I want it that way
+* Backstreet Boys - Incomplete
+* Backstreet Boys - Quit playing games with my heart
+* Barbra Streisand & Celine Dion - Tell him
+* Basement Jaxx - Red alert
+* Beck - Loser
+* Belinda Carlisle - One of us
+* Beyonce - Broken - Hearted Girl
+* Beyonce - Halo
+* Beyonce - If I Were A Boy
+* Beyonce - Listen
+* Bill Withers - Ain't No Sunshine
+* Billy Idol - Scream
+* Billy Idol - White Wedding
+* Bjork - It's oh so quiet
+* Black Sabbath - Iron man
+* Black Sabbath - Paranoid
+* Blink 182 - I Miss You
+* Blondie - Atomic
+* Blondie - Maria
+* Blondie - One way or another
+* Blues Brothers - Everybody need somebody
+* Blues Brothers - Sweet home chicago
+* Blues Brothers - Think
+* Blur - Song 2
+* Bob Dylan - Like a rolling stone
+* Bob Marley - Is This Love
+* Bob Marley - Redemption Song
+* Bob Marley - Sun is shining
+* Bob Sinclair & Gary Nesta Pine - Love generation
+* Bobby McFerrin - Dont worry be happy
+* Bobby Rydell - Sway
+* BodyRockers - I Like The Way (You Move)
+* Bomfunk Mcs - Freestyler
+* Bon Jovi - Blaze of glory
+* Bon Jovi - It's my life
+* Bon Jovi - Livin on a prayer
+* Bon Jovi - You give love a bad name
+* Bonnie Tyler - Holding out for a hero
+* Bonnie Tyler – It’s a heartache
+* Bonnie Tyler - Total eclipse of heart
+* Boystown Gang - Can't Take My Eyes Off You
+* Brian Hyland - Sealed with a kiss
+* Britney Spears - Baby One More Time
+* Britney Spears - Lucky
+* Britney Spears - Toxic
+* Bruce Springsteen - Born in the USA
+* Bruce Springsteen - Fire
+* Bruce Springsteen - Streets of Philadelphia
+* Bruno Mars - Count on me
+* Bruno Mars - It Will Rain
+* Bruno Mars - Just the way you are
+* Bruno Mars - When I was your man
+* Bryan Adams - Everything I do
+* Bryan Adams - When You're Gone
+* Bryan Adams Sting Rod Stewart - All for love
+* Cardigans - Erase n rewind
+* Cardigans - Lovefool
+* Cardigans - My favourite game
+* Carpenters - Sleigh Ride
+* Cee Lo Green - Fuck You
+* Celine Dion - All by myself
+* Celine Dion - My Heart Will Go On
+* Celine Dion - Power of love
+* Celine Dion - When I fall in love
+* Cher - Believe
+* Cher - If I could turn back time
+* Cher - Shoop shoop song
+* Cher - Walking In Memphis
+* Chris de Burgh - Lady in red
+* Chris Isaak - Wicked game
+* Chris Rea - Lets dance
+* Christina Aguilera - Ain't no other man
+* Christina Aguilera - Have Yourself A Merry Little Christmas
+* Christina Aguilera - Reflection
+* Christina Aguilera - Say Something
+* Christina Aguilera - We remain
+* Christina Aguilera - You Lost Me
+* Chuck Berry - Johnny be goode
+* Chuck Berry - Rock n Roll music
+* Coldplay - A rush of blood to the head
+* Coldplay - Clocks
+* Coldplay - Don't Panic
+* Coldplay - God Put A Smile Upon Your Face
+* Coldplay - The Scientist
+* Coldplay - Trouble
+* Coldplay - Yellow
+* Craig David - Seven day
+* Craig David - Walking away
+* Creed - Are You Ready
+* Creed - Don't Stop Dancing
+* Creed - Higher
+* Creed - My Own Prison
+* Creed - One Last Breath
+* Creed - One
+* Creed - To Whom It May Concern
+* Creed - Torn
+* Creed - With Arms Wide Open
+* Cure - Boys Don't Cry
+* Cure - Love song
+* Cyndi Lauper - Time after time
+* Daft Punk feat. Pharrell - Get lucky
+* David Bowie - China girl
+* David Guetta & Sia - She wolf
+* David Guetta feat. Nicki Minaj - Turn Me On
+* David Guetta feat. Sia - Titanium
+* Deep Blue Something - Breakfast at Tiffany's
+* Depeche Mode - Enjoy The Silence
+* Depeche Mode - It's no good
+* Diana Ross - Where you going to
+* Dido - Thank you
+* Dido - White flag
+* Die Antwoord - Baby's on fire
+* Dire Straits - Brothers In Arms
+* Dire Straits - Money For Nothing
+* Dire Straits - Sultans of Swing
+* Dirty Dancing - The Time Of My Life
+* Disney - Hakuna Matata
+* Disney - Lion Sleeps Tonight
+* Disturbed - Immortalized
+* Disturbed - Sons of Plunder
+* Disturbed - Ten Thousand Fists
+* Disturbed - The Game
+* Disturbed - The Vengeful One
+* Don Omar ft. Lucenzo - Danza Kuduro
+* Dr. Dre - What's the Difference (feat. Xzibit, Eminem)
+* Drew Barrymore & Hugh Grant - Way back into love
+* Duffy - Mercy
+* Duran Duran - A view to a kill
+* Duran Duran - Wild boys
+* Dusty Springfield - Son Of A Preacher Man
+* Eagles - Hotel California
+* Ed Sheeran - Don't
+* Ed Sheeran - I see fire
+* Ed Sheeran - Perfect
+* Ed Sheeran - Shape of You
+* Ed Sheeran - The A Team
+* Ed Sheeran - Thinking Out Loud
+* Ed Sheeran feat. Taylor Swift - Everything has changed
+* Edith Piaf - Non, je ne regrette rien
+* Eiffel 65 - Blue
+* Ella Fitzgerald - Cheek To Cheek
+* Ellie Goulding - Love me like you do
+* Elton John - Believe
+* Elton John - Can you feel the love tonight
+* Elton John - Candle in the wind
+* Elton John - Circle of life
+* Elton John - Don't go breakin my heart
+* Elton John - Made in England
+* Elton John - Recover your soul
+* Elton John - Sacrifice
+* Elton John - True love
+* Elvis Presley - Be bop a lula
+* Elvis Presley - Blue suede shoes
+* Elvis Presley - His latest flame
+* Elvis Presley - Hound dog
+* Elvis Presley - It's now or never
+* Elvis Presley - Jailhouse rock
+* Elvis Presley - Love me tender
+* Emilia - Big big world
+* Eminem - Rap God
+* Eminem - Real Slim Shady
+* Eminem - Survival
+* Eminem - We made you
+* Enrique Iglesias - Heartbeate
+* Enrique Iglesias - Hero
+* Enrique Iglesias- Tired of being sorry
+* Eric Carmen - Hungry eyes
+* Eric Clapton - Blues power
+* Eric Clapton - Cocaine
+* Eric Clapton - Layla
+* Eric Clapton - Tears in heaven
+* E-type - Life
+* Europe - The Final Countdown
+* Eurythmics - Thorn in my side
+* Evanescence - Bring me to life
+* Evanescence - Hello
+* Evanescence - My immortal
+* F.R. David - Words
+* Faith No More - Easy
+* Faith No More - Epic
+* Fatboy Slim - Praise you
+* Fergie - A Little Party Never Killed Nobody
+* Fly Project - Toca Toca
+* Foo Fighters - Breakout
+* Foo Fighters - Learn to fly
+* Foo Fighters - My hero
+* Foo Fighters - Stacked actors
+* Fools Garden - Lemon tree
+* Francis Connie - Stupid Cupid
+* Frank & Nancy Sinatra - Something stupid
+* Frank Sinatra - Fly me to the moon
+* Frank Sinatra - I Won't Dance
+* Frank Sinatra - Let It Snow
+* Frank Sinatra - My way
+* Frank Sinatra - New York, New York
+* Frank Sinatra - Strangers in the night
+* Frankie Valli - Can't Take My Eyes Off Of You
+* Fred Astair - Cheek To Cheek
+* Freddie Mercury - I was born to love you
+* Frozen - Let it go
+* Fugees - Killing Me Softly
+* Fun - We are young
 
 > Nie wszystkie utwory, które posiadam znajdują się na liście. Lista piosenek jest systematycznie rozszerzana o nowe utwory.
 >
