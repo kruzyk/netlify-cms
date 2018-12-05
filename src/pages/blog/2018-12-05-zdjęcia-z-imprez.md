@@ -6,4 +6,4 @@ description: 'Szukasz zdjęć z imprezy? Zobacz jak się bawimy! :) '
 tags:
   - zdjęcia
 ---
-Fotki z imprez, ktorektóre prowadzeprowadzę znajdziesz na moim profilu FB Mary Jane Razor.
+Fotki z imprez, które prowadzę znajdziesz na moim profilu FB Mary Jane Razor.
