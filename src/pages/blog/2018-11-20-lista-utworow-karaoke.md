@@ -14,7 +14,7 @@ Możesz wybierać z polskich przebojów lub z zagranicznych hitów.
 
 Wszystkie podkłady są w dobrej jakości, nie używam podkładów MIDI.
 
-## Lista polskich piosenek
+## Lista polskich wykonawców
 
 * 4 ever - To następna laska
 * Abradab - Miasto jest nasze
@@ -405,13 +405,12 @@ Wszystkie podkłady są w dobrej jakości, nie używam podkładów MIDI.
 * Ivan i Delfin - Jej czarne oczy
 * Iwona Węgrowska - 4 Lata
 * Izabela Trojanowska - Wszystko czego dziś chcę
-* 
 
 > Nie wszystkie utwory, które posiadam znajdują się na liście. Lista piosenek jest systematycznie rozszerzana o nowe utwory.
 >
 > Nie ma Twojej piosenki na liście? Napisz do mnie, może już ją mam :)
 
-## Lista zagranicznych utworów
+## Zagraniczne zespoły
 
 * 3 Doors Down - Be Like That
 * 3 Doors Down - Here Without You
