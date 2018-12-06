@@ -326,88 +326,86 @@ Wszystkie podkłady są w dobrej jakości, nie używam podkładów MIDI.
 * Gang Albanii - Albański raj
 * Gang Albanii - Klub Go Go
 * Golec uOrkiestra - Bo lato rozpala
-  Golec uOrkiestra - Crazy Is My Life
-  Golec uOrkiestra - Kto się ceni
-  Golec uOrkiestra - Lornetka
-  Golec uOrkiestra - Słodycze
-  Golec uOrkiestra - Ściernisko
-  Gosia Andrzejewicz - Lustro
-  Gosia Andrzejewicz - Pozwól żyć
-  Gosia Andrzejewicz - Słowa
-  Goya - Smak słów
-  Goya - Tylko mnie kochaj
-  Grażyna Łobaszewska - Brzydcy
-  Grażyna Łobaszewska - Czas nas uczy pogody
-  Grażyna Łobaszewska - Magiczne ognie
-  Grubson - Na szczycie
-  Grubson - Naturalnie
-  Grubson - Właściwy kurs
-  Grubson - Złap za
-  GrubSon & Emilia - Naprawimy to
-  Grupa Operacyjna - Będę sobą
-  Grupa Operacyjna - Świr
-  Grzegorz Hyży - Na chwilę
-  Grzegorz Turnau - Cichosza
-  Grzegorz Turnau - Między ciszą a ciszą
-  Grzegorz Turnau & Basia Wilk - Bombonierka
-  H2O - Zatrzymaj mnie
+* Golec uOrkiestra - Crazy Is My Life
+* Golec uOrkiestra - Kto się ceni
+* Golec uOrkiestra - Lornetka
+* Golec uOrkiestra - Słodycze
+* Golec uOrkiestra - Ściernisko
+* Gosia Andrzejewicz - Lustro
+* Gosia Andrzejewicz - Pozwól żyć
+* Gosia Andrzejewicz - Słowa
+* Goya - Smak słów
+* Goya - Tylko mnie kochaj
+* Grażyna Łobaszewska - Brzydcy
+* Grażyna Łobaszewska - Czas nas uczy pogody
+* Grażyna Łobaszewska - Magiczne ognie
+* Grubson - Na szczycie
+* Grubson - Naturalnie
+* Grubson - Właściwy kurs
+* Grubson - Złap za
+* Grubson & Emilia - Naprawimy to
+* Grupa Operacyjna - Będę sobą
+* Grupa Operacyjna - Świr
+* Grzegorz Hyży - Na chwilę
+* Grzegorz Turnau - Cichosza
+* Grzegorz Turnau - Między ciszą a ciszą
+* Grzegorz Turnau & Basia Wilk - Bombonierka
+* H2O - Zatrzymaj mnie
 * Halina Frąckowiak - Bądź gotowy dziś do drogi
-  Halina Frąckowiak - Papierowy księżyc
-  Hanna Banaszak - Ja dla pana czasu nie mam
-  Hanna Banaszak - W moim magicznym domu
-  Hanna Banaszak - Żegnaj kotku
-  Happy End - Jak  się  masz kochanie
-  Happysad - Długa droga w dół
-  Happysad - Ja do Ciebie
-  Happysad - Łydka
-  Happysad - Zanim pójde
-  Helena Majdaniec - Rudy rydz
-  Helena Majdaniec - Zakochani są wśród nas
-  HEMP GRU - Nienawiść
-  HEMP GRU - To jest to
-  Hey - A ty
-  Hey - Byłabym
-  Hey - Cisza, ja i czas
-  Hey - List
-  Hey - Moja i Twoja nadzieja
-  Hey - Sic!
-  Hey - Teksański
-  Human - Słońce moje
-  Hurt - Załoga G
-  Ich Troje - A wszystko to
-  Ich Troje - Babski świat
-  Ich Troje - Ja chcę
-  Ich Troje - Keine Grenzen
-  Ich Troje - Kochać kobiety
-  Ich Troje - Lecz to nie to
-  Ich Troje - Mam już dość
-  Ich Troje - Powiedz
-  Ich Troje - Razem a jednak osobno
-  Ich Troje - Wypijmy za to
-  Ich Troje - Zawsze pójdę w Twoją stronę
-  Ich Troje - Zawsze z Tobą chciałbym być
-  Igor Herbut - Nie ufaj mi
-  Illusion - Nóż
-  Indios Bravos - Tak to tak
-  Indios Bravos - Wu Wei
-  Ira - Bezsenni
-  Ira - Miłość
-  Ira - Nie daj mi odejść
-  Ira - Ona jest ze snu
-  Ira - Parę chwil
-  Ira - Szczęśliwa
-  Ira - To co na zawsze
-  Ira - Trochę wolniej
-  Ira - Wiara
-  Irena Jarocka - Kawiarenki 
-  Irena Jarocka - Wymyśliłam Cię
-  Irena Santor - Już nie ma dzikich plaż
-  Ivan i Delfin - Jej czarne oczy
-  Iwona Węgrowska - 4 Lata
-  Izabela Trojanowska - Wszystko czego dziś chcę
-
-
-
+* Halina Frąckowiak - Papierowy księżyc
+* Hanna Banaszak - Ja dla pana czasu nie mam
+* Hanna Banaszak - W moim magicznym domu
+* Hanna Banaszak - Żegnaj kotku
+* Happy End - Jak  się  masz kochanie
+* Happysad - Długa droga w dół
+* Happysad - Ja do Ciebie
+* Happysad - Łydka
+* Happysad - Zanim pójdę
+* Helena Majdaniec - Rudy rydz
+* Helena Majdaniec - Zakochani są wśród nas
+* HEMP GRU - Nienawiść
+* HEMP GRU - To jest to
+* Hey - A ty
+* Hey - Byłabym
+* Hey - Cisza, ja i czas
+* Hey - List
+* Hey - Moja i Twoja nadzieja
+* Hey - Sic!
+* Hey - Teksański
+* Human - Słońce moje
+* Hurt - Załoga G
+* Ich Troje - A wszystko to
+* Ich Troje - Babski świat
+* Ich Troje - Ja chcę
+* Ich Troje - Keine Grenzen
+* Ich Troje - Kochać kobiety
+* Ich Troje - Lecz to nie to
+* Ich Troje - Mam już dość
+* Ich Troje - Powiedz
+* Ich Troje - Razem a jednak osobno
+* Ich Troje - Wypijmy za to
+* Ich Troje - Zawsze pójdę w Twoją stronę
+* Ich Troje - Zawsze z Tobą chciałbym być
+* Igor Herbut - Nie ufaj mi
+* Illusion - Nóż
+* Indios Bravos - Tak to tak
+* Indios Bravos - Wu Wei
+* Ira - Bezsenni
+* Ira - Miłość
+* Ira - Nie daj mi odejść
+* Ira - Ona jest ze snu
+* Ira - Parę chwil
+* Ira - Szczęśliwa
+* Ira - To co na zawsze
+* Ira - Trochę wolniej
+* Ira - Wiara
+* Irena Jarocka - Kawiarenki 
+* Irena Jarocka - Wymyśliłam Cię
+* Irena Santor - Już nie ma dzikich plaż
+* Ivan i Delfin - Jej czarne oczy
+* Iwona Węgrowska - 4 Lata
+* Izabela Trojanowska - Wszystko czego dziś chcę
+* 
 
 > Nie wszystkie utwory, które posiadam znajdują się na liście. Lista piosenek jest systematycznie rozszerzana o nowe utwory.
 >
