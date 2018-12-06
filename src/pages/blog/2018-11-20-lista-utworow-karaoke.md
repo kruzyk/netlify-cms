@@ -388,6 +388,23 @@ Wszystkie podkłady są w dobrej jakości, nie używam podkładów MIDI.
   Ich Troje - Zawsze z Tobą chciałbym być
   Igor Herbut - Nie ufaj mi
   Illusion - Nóż
+  Indios Bravos - Tak to tak
+  Indios Bravos - Wu Wei
+  Ira - Bezsenni
+  Ira - Miłość
+  Ira - Nie daj mi odejść
+  Ira - Ona jest ze snu
+  Ira - Parę chwil
+  Ira - Szczęśliwa
+  Ira - To co na zawsze
+  Ira - Trochę wolniej
+  Ira - Wiara
+  Irena Jarocka - Kawiarenki 
+  Irena Jarocka - Wymyśliłam Cię
+  Irena Santor - Już nie ma dzikich plaż
+  Ivan i Delfin - Jej czarne oczy
+  Iwona Węgrowska - 4 Lata
+  Izabela Trojanowska - Wszystko czego dziś chcę
 
 
 
@@ -686,6 +703,45 @@ Wszystkie podkłady są w dobrej jakości, nie używam podkładów MIDI.
 * Frozen - Let it go
 * Fugees - Killing Me Softly
 * Fun - We are young
+* 
+  Gabrielle - Dreams
+  Gabrielle - Forget the world
+  Gabrielle - I wish
+  Gabrielle - If you really cared
+  Garbage - The world is not enough
+  Garbage - You look so fine
+  Genesis - I can't dance
+  George Michael - Faith
+  Gloria Gaynor - I will survive
+  Godsmack - Awake
+  Godsmack - I Stand Alone
+  Godsmack - Love-Hate-Sex-Pain
+  Godsmack - Something Different
+  Gorillaz - Clint Eastwood
+  Gorillaz - Feel Good
+  Gotye - Somebody That I Used To Know
+  Grease - Sandy
+  Grease - Summer Nights
+  Grease - You're the one that I want
+  Green Day - 21 Guns
+  Green Day - Good Riddance (Time Of Your Life)
+  Green Day - Jesus Of Suburbia
+  Green Day - Tired Of Waiting
+  Green Day - When I Come Around
+  Guano Apes - Open Your Eyes
+  Guns N' Roses - Knockin' On Heavens Door
+  Guns N' Roses - November Rain
+  Guns N' Roses - Sweet child o mine
+  Gwen Stefani - Hollaback girl
+  
+  Haddaway - What is love
+  HIGH SCHOOL MUSICAL
+  
+  Ice Cube - It Was a Good Day
+  Incubus - Drive
+  India Arie - I am ready for love
+  Iron Maiden - The number of the Beast
+
 
 > Nie wszystkie utwory, które posiadam znajdują się na liście. Lista piosenek jest systematycznie rozszerzana o nowe utwory.
 >
