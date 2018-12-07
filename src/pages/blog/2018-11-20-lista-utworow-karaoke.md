@@ -14,6 +14,14 @@ Możesz wybierać z polskich przebojów lub z zagranicznych hitów.
 
 Wszystkie podkłady są w dobrej jakości, nie używam podkładów MIDI.
 
+
+
+> Nie wszystkie utwory, które posiadam znajdują się na liście. Lista piosenek jest systematycznie rozszerzana o nowe utwory.
+>
+> Nie ma Twojej piosenki na liście? Napisz do mnie, może już ją mam :)
+>
+> #### [Pobierz listę w formacie PDF](https://www.karaoke-3city.pl/lista-karaoke.pdf)
+
 ## Lista polskich wykonawców
 
 * 4 ever - To następna laska
@@ -503,10 +511,6 @@ Wszystkie podkłady są w dobrej jakości, nie używam podkładów MIDI.
 
 
 
-> Nie wszystkie utwory, które posiadam znajdują się na liście. Lista piosenek jest systematycznie rozszerzana o nowe utwory.
->
-> Nie ma Twojej piosenki na liście? Napisz do mnie, może już ją mam :)
-
 ## Zagraniczne zespoły
 
 * 3 Doors Down - Be Like That
@@ -797,10 +801,7 @@ Wszystkie podkłady są w dobrej jakości, nie używam podkładów MIDI.
 * Frozen - Let it go
 * Fugees - Killing Me Softly
 * Fun - We are young
-* 
-
-Gabrielle - Dreams
-
+* Gabrielle - Dreams
 * Gabrielle - Forget the world
 * Gabrielle - I wish
 * Gabrielle - If you really cared
@@ -891,5 +892,5 @@ Gabrielle - Dreams
 > Nie wszystkie utwory, które posiadam znajdują się na liście. Lista piosenek jest systematycznie rozszerzana o nowe utwory.
 >
 > Nie ma Twojej piosenki na liście? Napisz do mnie, może już ją mam :)
-
-#### [Pobierz listę w formacie PDF](https://www.karaoke-3city.pl/lista-karaoke.pdf)
+>
+> #### [Pobierz listę w formacie PDF](https://www.karaoke-3city.pl/lista-karaoke.pdf)
