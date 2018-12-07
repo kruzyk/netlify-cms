@@ -405,6 +405,102 @@ Wszystkie podkłady są w dobrej jakości, nie używam podkładów MIDI.
 * Ivan i Delfin - Jej czarne oczy
 * Iwona Węgrowska - 4 Lata
 * Izabela Trojanowska - Wszystko czego dziś chcę
+* Jacek Kaczmarski - Nasza klasa
+  Jacek Skubikowski - Lizak
+  Jamal - Policeman
+  Jamal - Pójdę tylko tam
+  Jan Kiepura - Brunetki, blondynki
+  Jan Kiepura - Usta milczą, dusza śpiewa
+  Jan Pietrzak - Czy te oczy mogą kłamać
+  Janusz Laskowski - Beata Z Albatrosa
+  Janusz Laskowski - Na opolskim rynku
+  Janusz Laskowski - Śnił mi się rodzinny dom
+  Janusz Laskowski - Świat nie wierzy łzom 
+  Jeden Osiem L - Jak zapomnieć
+  Jerzy Połomski - Bo z dziewczynami
+  Jerzy Stuhr - Śpiewać każdy może
+  Jula - Za każdym razem
+  Just 5 - Kolorowe sny
+  Justyna & Piotr - Ty i ja
+  Kabaret Ani Mru Mru - Na tańce go, go, go
+  Kabaret pod wyrwigroszem - Jesteś spalona
+  Kaja Paschalska - Przyjaciel od zaraz
+  Kaliber 44 - Film
+  Kaliber 44 - Normalnie o tej porze
+  Kaliber 44 - Wena
+  Kalina Jędrusik - Bo we mnie jest seks
+  Kamil Bednarek - Cisza
+  Kamil Bednarek - Dni których nie znamy
+  Kancelarya - Zabiorę Cię
+  Karin Stanek - Autostop
+  Karin Stanek - Chłopiec z gitarą
+  Karolina Czarnecka - Hera Koka Hasz LSD
+  Kasa - Macho
+  Kasa - Piękniejsza
+  Kasia Cerekwicka - Na kolana
+  Kasia Cerekwicka - S.O.S.
+  Kasia Klich - Lepszy model
+  Kasia Kowalska - Antidotum
+  Kasia Kowalska - Chcę zatrzymać ten czas
+  Kasia Kowalska - Co może przynieść nowy dzień
+  Kasia Kowalska - Coś optymistycznego
+  Kasia Kowalska - Jak rzecz
+  Kasia Kowalska - Pieprz i sól
+  Kasia Kowalska - Prowadź mnie
+  Kasia Kowalska - Spowiedź
+  Kasia Popowska - Tlen
+  Kasia Sobczyk - Nie bądź taki szybki Bill
+  Kasia Sobczyk - O mnie się nie martw
+  Kasia Sobczyk - Trzynastego
+  Kasia Wilk - Pierwszy raz
+  Kayah - Na językach
+  Kayah - Supermenka
+  Kayah - Tabakiera
+  Kayah - Testostereon
+  Kayah - To nie ptak
+  Kayah - Za Późno
+  Kayah & Krzysztof Kiljański - Prócz Ciebie nic
+  Kayah Bregovic - Kiedyś byłam różą
+  Kayah Bregovic - Prawy do lewego
+  Kayah Bregovic - Śpij kochany śpij
+  Kazik i Yugoton - Malcziki
+  Kobranocka - Kocham Cię jak Irlandię
+  Kombi - Black and white
+  Kombi - Gdzie jesteś dziś
+  Kombi - Hej! Rock and Roll
+  Kombi - Już Ci nie wybaczę
+  Kombi - Królowie życia
+  Kombi - Merenge
+  Kombi - Myślę o Tobie
+  Kombi - Nasze Randez Vous
+  Kombi - Pokolenia
+  Kombi - Sen się spełni
+  Kombi - Skarby
+  Kombi - Słodkiego miłego życia
+  Kombi - Ślad
+  Kombi - Zaczaruj mnie
+  Kraina Lodu - Mam tę moc
+  Kraina Lodu - Ulepimy dziś bałwana
+  Krawczyk Bregovic - Mój przyjacielu
+  Krystyna Prońko - Jesteś lekiem na całe zło
+  Krystyna Prońko - Małe tęsknoty
+  Krzysztof Antkowiak - Zakazany owoc
+  Krzysztof Krawczyk - Bo jesteś Ty
+  Krzysztof Krawczyk - Byle było tak
+  Krzysztof Krawczyk - Chciałem być
+  Krzysztof Krawczyk - Jak minął dzień
+  Krzysztof Krawczyk & Muniek Staszczyk - Lekarze Dusz
+  Krzysztof Krawczyk - Pamiętam ciebie z tamtych lat
+  Krzysztof Krawczyk - Parostatek
+  Krzysztof Krawczyk - Za Tobą pójdę jak na bal
+  Krzysztof Krawczyk - Zagraj nam piękny Cyganie
+  Krzysztof Krawczyk - Wróć do mnie
+  Kukiz & Yugoton - O nic nie pytaj
+  Kult - Baranek
+  Kult - Brooklynska Rada Żydów
+  Kult - Celina
+  Kult - Gdy nie ma dzieci
+
 
 > Nie wszystkie utwory, które posiadam znajdują się na liście. Lista piosenek jest systematycznie rozszerzana o nowe utwory.
 >
@@ -700,7 +796,10 @@ Wszystkie podkłady są w dobrej jakości, nie używam podkładów MIDI.
 * Frozen - Let it go
 * Fugees - Killing Me Softly
 * Fun - We are young
-* Gabrielle - Dreams
+* 
+
+Gabrielle - Dreams
+
 * Gabrielle - Forget the world
 * Gabrielle - I wish
 * Gabrielle - If you really cared
