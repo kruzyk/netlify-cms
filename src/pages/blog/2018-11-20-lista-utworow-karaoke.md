@@ -835,6 +835,58 @@ Gabrielle - Dreams
 * Incubus - Drive
 * India Arie - I am ready for love
 * Iron Maiden - The number of the Beast
+* Jack Johnson - Upside Down
+  James Arthur - Impossible
+  James Blunt - Goodbye my lover
+  James Blunt - You're Beautiful
+  James Morrison feat. Nelly Furtado - Broken strings
+  Jeff Buckley - Hallelujah
+  Jennifer Lopez - Get right
+  Jennifer Rush - Power of love
+  Jerry Lee Lewis - Great balls of fire
+  Jessica - Everytime we say goodbye
+  Jessie J - Do It Like A Dude
+  Jessie J - Flashlight
+  Jessie J & David Guetta - Laserlight
+  Jessie J feat. B.o.B - Price Tag
+  Jet - Are You Gonna Be My Girl
+  Jimi Hendrix -  Hey Joe
+  Jimi Hendrix - Purple Haze
+  Joan Osborne - One Of Us
+  Joe Cocker - Summer in the city
+  Joe Cocker - Unchain my heart
+  Joe Cocker - Up where we belong
+  John Cale - Hallelujah
+  John Legend - All of me
+  John Lennon - Imagine
+  John Newman - Blame
+  John Newman - Love Me Again
+  Justin Bieber - Love Yourself
+  Justin Bieber - One time
+  Justin Bieber - Somebody to love
+  
+  Kaoma - Lambada
+  Katrina and the waves - Walking on sunshine
+  Katy Perry - ET
+  Katy Perry - Firework
+  Katy Perry - I kissed a girl
+  Katy Perry - Peacock
+  Katy Perry - Roar
+  Katy Perry - Swish Swish
+  Katy Perry - Thinking of You
+  Katy Perry - Unconditionally
+  Killers - Human
+  Killers - Somebody told me
+  Killing Moon - Echo & The Bunnymen
+  Kings Of Leon - Birthday
+  Kings Of Leon - Closer
+  Kings Of Leon - Manhatan
+  Kings Of Leon - Notion
+  Kings Of Leon - Sex Is On Fire
+  Kings Of Leon - Use Somebody
+  Korn - Freak On A Leash
+  Kylie Minogue – Locomotion
+
 
 > Nie wszystkie utwory, które posiadam znajdują się na liście. Lista piosenek jest systematycznie rozszerzana o nowe utwory.
 >
