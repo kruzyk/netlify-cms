@@ -5,7 +5,8 @@ const Footer = () => (
   <nav className="navbar is-transparent">
     <div className="container">
       <div className="navbar-start">
-       Prowadzenie imprez karaoke - Mary Jane Razor
+       Prowadzenie imprez karaoke - Mary Jane Razor<br/>
+       Trójmiasto: Gdańsk | Sopot | Gdynia
       </div>
     </div>
   </nav>
