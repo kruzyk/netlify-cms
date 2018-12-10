@@ -14,8 +14,6 @@ Możesz wybierać z polskich przebojów lub z zagranicznych hitów.
 
 Wszystkie podkłady są w dobrej jakości, nie używam podkładów MIDI.
 
-
-
 > Nie wszystkie utwory, które posiadam znajdują się na liście. Lista piosenek jest systematycznie rozszerzana o nowe utwory.
 >
 > Nie ma Twojej piosenki na liście? Napisz do mnie, może już ją mam :)
@@ -427,7 +425,10 @@ Wszystkie podkłady są w dobrej jakości, nie używam podkładów MIDI.
 * Jeden Osiem L - Jak zapomnieć
 * Jerzy Połomski - Bo z dziewczynami
 * Jerzy Stuhr - Śpiewać każdy może
-* Jula - Za każdym razem
+* 
+
+Jula - Za każdym razem
+
 * Just 5 - Kolorowe sny
 * Justyna & Piotr - Ty i ja
 * Kabaret Ani Mru Mru - Na tańce go, go, go
@@ -508,6 +509,76 @@ Wszystkie podkłady są w dobrej jakości, nie używam podkładów MIDI.
 * Kult - Brooklynska Rada Żydów
 * Kult - Celina
 * Kult - Gdy nie ma dzieci
+* Lady Pank - Kryzysowa narzeczona
+* Lady Pank - Mała wojna
+* Lady Pank - Na co komu dziś
+* Lady Pank - Siódme niebo nienawiści
+* Lady Pank - Tańcz głupia tańcz
+* Lady Pank - Wciąż bardziej obcy
+* Lady Pank - Zawsze tam gdzie Ty
+* Lady Pank - Zostawcie Titanica
+* Lemon - Będę z Tobą
+* Lemon - Napraw
+* Lerek Nowator - Moja panienka
+* Leszcze - Kombinuj dziewczyno
+* Leszcze - Ta dziewczyna
+* Letni Chamski Podryw - Bigos
+* Letni Chamski Podryw - Czinklaczento
+* Letni Chamski Podryw - Pomidorowa
+* Liber - Skarby
+* Liroy - Autobiografia
+* Liroy - Impreza
+* LO 27 - Mogę wszystko
+* Lombard - Droga Pani z TV
+* Lombard - Mister Of America
+* Lombard - Szklana pogoda
+* Long & Junior - Tańczyć chcę
+* Luxtorpeda - Autystyczny
+* Łobuzy - Ona czuje we mnie piniądz
+* Łona - Nie słuchać przed 2050
+* Łzy - Agnieszka
+* Łzy - Anka ot tak
+* Łzy - Jestem jaka jestem
+* Łzy - Narcyz
+* Łzy - Oczy szeroko zamknięte
+* Łzy - Puste słowa
+* Łzy - Zatańcz ze mną proszę
+* Maanam - Bez Ciebie umieram
+* Maanam - Boskie Buenos
+* Maanam - Cykady na cykladach
+* Maanam - Kocham Cię kochanie moje
+* Maanam - Krakowski Spleen
+* Maanam - Szare miraże
+* Maciej Maleńczuk - Andromantyzm
+* Maciej Maleńczuk - Barman
+* Maciej Maleńczuk - Dawna dziewczyno
+* Maciej Maleńczuk - Gdzie jesteście przyjaciele moi
+* Maciej Maleńczuk - Ostatnia nocka
+* Maciej Maleńczuk - Sługi za szlugi
+* Maciej Maleńczuk - Tango libido
+* Maciej Maleńczuk & Hasior - Synu
+* Madagaskar - Wyginam śmiało ciało
+* Mafia - Imię deszczu
+* Magdalena Niewińska - Mężu drogi mój
+* Magma - Aicha
+* Majka Jeżowska - Laleczka z saskiej porcelany
+* Makowiecki Band - Miasto kobiet
+* Małgorzata Ostrowska - Słowa
+* Manchester - Dziewczyna gangstera
+* Manchester - Nie na pierwszej randce
+* Marcelina & Piotr Rogucki - Karmelove
+* Marcin Rozynek - Siłacz
+* Marek Grechuta - Będziesz moją panią
+* Marek Grechuta - Dni których nie znamy
+* Marek Grechuta - Nie dokazuj
+* Marek Grechuta - Wiosna, ach to ty
+* Marek Grechuta - Wolność
+* Marek Jackowski - Oprócz błękitnego nieba
+* Marek Kondrat, Marlena Drozdowska - Mydełko Fa
+* Marek Tranda - Moja Dumka
+* Margaret - Smak radości
+* Margaret - Thank You Very Much
+* Maria Koterbska - Serduszko puka w rytmie 
 
 
 
@@ -886,8 +957,6 @@ Wszystkie podkłady są w dobrej jakości, nie używam podkładów MIDI.
 * Kings Of Leon - Use Somebody
 * Korn - Freak On A Leash
 * Kylie Minogue – Locomotion
-
-
 
 > Nie wszystkie utwory, które posiadam znajdują się na liście. Lista piosenek jest systematycznie rozszerzana o nowe utwory.
 >
