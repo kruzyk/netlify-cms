@@ -1,3 +1,19 @@
+# TODO:
+* przemyśleć layout:
+    * stworzyć makietę
+    * dobrać kolory (logo, czcionka, linki, footer)
+* przepisać zgodnie z semantyką html5:
+    * nowy navbar
+    * footer
+    * layout
+* stworzyć szablony dla podstron różnego rodzaju
+* wpisy przenieść do sekcji Artykuły/Blog
+* na głównej stronie Landing page?
+
+___
+___
+
+
 # karaoke-3city.pl with Gatsby + Netlify CMS Starter
 
 **Note:** This starter uses the [Gatsby v2 Beta](https://www.gatsbyjs.org/blog/2018-06-16-announcing-gatsby-v2-beta-launch/).
