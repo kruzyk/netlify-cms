@@ -1,20 +1,16 @@
 import React from "react";
 import { Link } from "gatsby";
 import facebook from "../img/facebook-icon.svg";
-import logo from "../img/logo.svg";
+// import logo from "../img/logo.svg";
 
 const Navbar = () => (
   <nav className="navbar is-transparent">
     <div className="container">
       <div className="navbar-brand">
         <Link to="/" className="navbar-item">
-          <figure className="image">
-            <img
-              src={logo}
-              alt="Mary Jane Razor Karaoke"
-              style={{ width: "88px" }}
-            />
-          </figure>
+          <div className="logo">
+          karaoke
+          </div>
         </Link>
       </div>
       <div className="navbar-start">
