@@ -14,7 +14,13 @@ Możesz wybierać z polskich przebojów lub z zagranicznych hitów.
 
 Wszystkie podkłady są w dobrej jakości, nie używam podkładów MIDI.
 
-## Lista polskich piosenek
+> Nie wszystkie utwory, które posiadam znajdują się na liście. Lista piosenek jest systematycznie rozszerzana o nowe utwory.
+>
+> Nie ma Twojej piosenki na liście? Napisz do mnie, może już ją mam :)
+>
+> #### [Pobierz listę w formacie PDF](https://www.karaoke-3city.pl/lista-karaoke.pdf)
+
+## Lista polskich wykonawców
 
 * 4 ever - To następna laska
 * Abradab - Miasto jest nasze
@@ -321,13 +327,262 @@ Wszystkie podkłady są w dobrej jakości, nie używam podkładów MIDI.
 * Formacja Nieżywych Schabuff - Ławka
 * Franek Kimono - King Bruce Lee karate mistrz
 * Friends - Nauczę Cię żyć
+* G.F. Darwin - Orki z Majorki
+* Gabriel Fleszar - Kroplą deszczu
+* Gang Albanii - Albański raj
+* Gang Albanii - Klub Go Go
+* Golec uOrkiestra - Bo lato rozpala
+* Golec uOrkiestra - Crazy Is My Life
+* Golec uOrkiestra - Kto się ceni
+* Golec uOrkiestra - Lornetka
+* Golec uOrkiestra - Słodycze
+* Golec uOrkiestra - Ściernisko
+* Gosia Andrzejewicz - Lustro
+* Gosia Andrzejewicz - Pozwól żyć
+* Gosia Andrzejewicz - Słowa
+* Goya - Smak słów
+* Goya - Tylko mnie kochaj
+* Grażyna Łobaszewska - Brzydcy
+* Grażyna Łobaszewska - Czas nas uczy pogody
+* Grażyna Łobaszewska - Magiczne ognie
+* Grubson - Na szczycie
+* Grubson - Naturalnie
+* Grubson - Właściwy kurs
+* Grubson - Złap za
+* Grubson & Emilia - Naprawimy to
+* Grupa Operacyjna - Będę sobą
+* Grupa Operacyjna - Świr
+* Grzegorz Hyży - Na chwilę
+* Grzegorz Turnau - Cichosza
+* Grzegorz Turnau - Między ciszą a ciszą
+* Grzegorz Turnau & Basia Wilk - Bombonierka
+* H2O - Zatrzymaj mnie
+* Halina Frąckowiak - Bądź gotowy dziś do drogi
+* Halina Frąckowiak - Papierowy księżyc
+* Hanna Banaszak - Ja dla pana czasu nie mam
+* Hanna Banaszak - W moim magicznym domu
+* Hanna Banaszak - Żegnaj kotku
+* Happy End - Jak  się  masz kochanie
+* Happysad - Długa droga w dół
+* Happysad - Ja do Ciebie
+* Happysad - Łydka
+* Happysad - Zanim pójdę
+* Helena Majdaniec - Rudy rydz
+* Helena Majdaniec - Zakochani są wśród nas
+* HEMP GRU - Nienawiść
+* HEMP GRU - To jest to
+* Hey - A ty
+* Hey - Byłabym
+* Hey - Cisza, ja i czas
+* Hey - List
+* Hey - Moja i Twoja nadzieja
+* Hey - Sic!
+* Hey - Teksański
+* Human - Słońce moje
+* Hurt - Załoga G
+* Ich Troje - A wszystko to
+* Ich Troje - Babski świat
+* Ich Troje - Ja chcę
+* Ich Troje - Keine Grenzen
+* Ich Troje - Kochać kobiety
+* Ich Troje - Lecz to nie to
+* Ich Troje - Mam już dość
+* Ich Troje - Powiedz
+* Ich Troje - Razem a jednak osobno
+* Ich Troje - Wypijmy za to
+* Ich Troje - Zawsze pójdę w Twoją stronę
+* Ich Troje - Zawsze z Tobą chciałbym być
+* Igor Herbut - Nie ufaj mi
+* Illusion - Nóż
+* Indios Bravos - Tak to tak
+* Indios Bravos - Wu Wei
+* Ira - Bezsenni
+* Ira - Miłość
+* Ira - Nie daj mi odejść
+* Ira - Ona jest ze snu
+* Ira - Parę chwil
+* Ira - Szczęśliwa
+* Ira - To co na zawsze
+* Ira - Trochę wolniej
+* Ira - Wiara
+* Irena Jarocka - Kawiarenki 
+* Irena Jarocka - Wymyśliłam Cię
+* Irena Santor - Już nie ma dzikich plaż
+* Ivan i Delfin - Jej czarne oczy
+* Iwona Węgrowska - 4 Lata
+* Izabela Trojanowska - Wszystko czego dziś chcę
+* Jacek Kaczmarski - Nasza klasa
+* Jacek Skubikowski - Lizak
+* Jamal - Policeman
+* Jamal - Pójdę tylko tam
+* Jan Kiepura - Brunetki, blondynki
+* Jan Kiepura - Usta milczą, dusza śpiewa
+* Jan Pietrzak - Czy te oczy mogą kłamać
+* Janusz Laskowski - Beata Z Albatrosa
+* Janusz Laskowski - Na opolskim rynku
+* Janusz Laskowski - Śnił mi się rodzinny dom
+* Janusz Laskowski - Świat nie wierzy łzom 
+* Jeden Osiem L - Jak zapomnieć
+* Jerzy Połomski - Bo z dziewczynami
+* Jerzy Stuhr - Śpiewać każdy może
+* 
+
+Jula - Za każdym razem
+
+* Just 5 - Kolorowe sny
+* Justyna & Piotr - Ty i ja
+* Kabaret Ani Mru Mru - Na tańce go, go, go
+* Kabaret pod wyrwigroszem - Jesteś spalona
+* Kaja Paschalska - Przyjaciel od zaraz
+* Kaliber 44 - Film
+* Kaliber 44 - Normalnie o tej porze
+* Kaliber 44 - Wena
+* Kalina Jędrusik - Bo we mnie jest seks
+* Kamil Bednarek - Cisza
+* Kamil Bednarek - Dni których nie znamy
+* Kancelarya - Zabiorę Cię
+* Karin Stanek - Autostop
+* Karin Stanek - Chłopiec z gitarą
+* Karolina Czarnecka - Hera Koka Hasz LSD
+* Kasa - Macho
+* Kasa - Piękniejsza
+* Kasia Cerekwicka - Na kolana
+* Kasia Cerekwicka - S.O.S.
+* Kasia Klich - Lepszy model
+* Kasia Kowalska - Antidotum
+* Kasia Kowalska - Chcę zatrzymać ten czas
+* Kasia Kowalska - Co może przynieść nowy dzień
+* Kasia Kowalska - Coś optymistycznego
+* Kasia Kowalska - Jak rzecz
+* Kasia Kowalska - Pieprz i sól
+* Kasia Kowalska - Prowadź mnie
+* Kasia Kowalska - Spowiedź
+* Kasia Popowska - Tlen
+* Kasia Sobczyk - Nie bądź taki szybki Bill
+* Kasia Sobczyk - O mnie się nie martw
+* Kasia Sobczyk - Trzynastego
+* Kasia Wilk - Pierwszy raz
+* Kayah - Na językach
+* Kayah - Supermenka
+* Kayah - Tabakiera
+* Kayah - Testostereon
+* Kayah - To nie ptak
+* Kayah - Za Późno
+* Kayah & Krzysztof Kiljański - Prócz Ciebie nic
+* Kayah Bregovic - Kiedyś byłam różą
+* Kayah Bregovic - Prawy do lewego
+* Kayah Bregovic - Śpij kochany śpij
+* Kazik i Yugoton - Malcziki
+* Kobranocka - Kocham Cię jak Irlandię
+* Kombi - Black and white
+* Kombi - Gdzie jesteś dziś
+* Kombi - Hej! Rock and Roll
+* Kombi - Już Ci nie wybaczę
+* Kombi - Królowie życia
+* Kombi - Merenge
+* Kombi - Myślę o Tobie
+* Kombi - Nasze Randez Vous
+* Kombi - Pokolenia
+* Kombi - Sen się spełni
+* Kombi - Skarby
+* Kombi - Słodkiego miłego życia
+* Kombi - Ślad
+* Kombi - Zaczaruj mnie
+* Kraina Lodu - Mam tę moc
+* Kraina Lodu - Ulepimy dziś bałwana
+* Krawczyk Bregovic - Mój przyjacielu
+* Krystyna Prońko - Jesteś lekiem na całe zło
+* Krystyna Prońko - Małe tęsknoty
+* Krzysztof Antkowiak - Zakazany owoc
+* Krzysztof Krawczyk - Bo jesteś Ty
+* Krzysztof Krawczyk - Byle było tak
+* Krzysztof Krawczyk - Chciałem być
+* Krzysztof Krawczyk - Jak minął dzień
+* Krzysztof Krawczyk & Muniek Staszczyk - Lekarze Dusz
+* Krzysztof Krawczyk - Pamiętam ciebie z tamtych lat
+* Krzysztof Krawczyk - Parostatek
+* Krzysztof Krawczyk - Za Tobą pójdę jak na bal
+* Krzysztof Krawczyk - Zagraj nam piękny Cyganie
+* Krzysztof Krawczyk - Wróć do mnie
+* Kukiz & Yugoton - O nic nie pytaj
+* Kult - Baranek
+* Kult - Brooklynska Rada Żydów
+* Kult - Celina
+* Kult - Gdy nie ma dzieci
+* Lady Pank - Kryzysowa narzeczona
+* Lady Pank - Mała wojna
+* Lady Pank - Na co komu dziś
+* Lady Pank - Siódme niebo nienawiści
+* Lady Pank - Tańcz głupia tańcz
+* Lady Pank - Wciąż bardziej obcy
+* Lady Pank - Zawsze tam gdzie Ty
+* Lady Pank - Zostawcie Titanica
+* Lemon - Będę z Tobą
+* Lemon - Napraw
+* Lerek Nowator - Moja panienka
+* Leszcze - Kombinuj dziewczyno
+* Leszcze - Ta dziewczyna
+* Letni Chamski Podryw - Bigos
+* Letni Chamski Podryw - Czinklaczento
+* Letni Chamski Podryw - Pomidorowa
+* Liber - Skarby
+* Liroy - Autobiografia
+* Liroy - Impreza
+* LO 27 - Mogę wszystko
+* Lombard - Droga Pani z TV
+* Lombard - Mister Of America
+* Lombard - Szklana pogoda
+* Long & Junior - Tańczyć chcę
+* Luxtorpeda - Autystyczny
+* Łobuzy - Ona czuje we mnie piniądz
+* Łona - Nie słuchać przed 2050
+* Łzy - Agnieszka
+* Łzy - Anka ot tak
+* Łzy - Jestem jaka jestem
+* Łzy - Narcyz
+* Łzy - Oczy szeroko zamknięte
+* Łzy - Puste słowa
+* Łzy - Zatańcz ze mną proszę
+* Maanam - Bez Ciebie umieram
+* Maanam - Boskie Buenos
+* Maanam - Cykady na cykladach
+* Maanam - Kocham Cię kochanie moje
+* Maanam - Krakowski Spleen
+* Maanam - Szare miraże
+* Maciej Maleńczuk - Andromantyzm
+* Maciej Maleńczuk - Barman
+* Maciej Maleńczuk - Dawna dziewczyno
+* Maciej Maleńczuk - Gdzie jesteście przyjaciele moi
+* Maciej Maleńczuk - Ostatnia nocka
+* Maciej Maleńczuk - Sługi za szlugi
+* Maciej Maleńczuk - Tango libido
+* Maciej Maleńczuk & Hasior - Synu
+* Madagaskar - Wyginam śmiało ciało
+* Mafia - Imię deszczu
+* Magdalena Niewińska - Mężu drogi mój
+* Magma - Aicha
+* Majka Jeżowska - Laleczka z saskiej porcelany
+* Makowiecki Band - Miasto kobiet
+* Małgorzata Ostrowska - Słowa
+* Manchester - Dziewczyna gangstera
+* Manchester - Nie na pierwszej randce
+* Marcelina & Piotr Rogucki - Karmelove
+* Marcin Rozynek - Siłacz
+* Marek Grechuta - Będziesz moją panią
+* Marek Grechuta - Dni których nie znamy
+* Marek Grechuta - Nie dokazuj
+* Marek Grechuta - Wiosna, ach to ty
+* Marek Grechuta - Wolność
+* Marek Jackowski - Oprócz błękitnego nieba
+* Marek Kondrat, Marlena Drozdowska - Mydełko Fa
+* Marek Tranda - Moja Dumka
+* Margaret - Smak radości
+* Margaret - Thank You Very Much
+* Maria Koterbska - Serduszko puka w rytmie 
 
 
-> Nie wszystkie utwory, które posiadam znajdują się na liście. Lista piosenek jest systematycznie rozszerzana o nowe utwory.
->
-> Nie ma Twojej piosenki na liście? Napisz do mnie, może już ją mam :)
 
-## Lista zagranicznych utworów
+## Zagraniczne zespoły
 
 * 3 Doors Down - Be Like That
 * 3 Doors Down - Here Without You
@@ -617,9 +872,151 @@ Wszystkie podkłady są w dobrej jakości, nie używam podkładów MIDI.
 * Frozen - Let it go
 * Fugees - Killing Me Softly
 * Fun - We are young
+* Gabrielle - Dreams
+* Gabrielle - Forget the world
+* Gabrielle - I wish
+* Gabrielle - If you really cared
+* Garbage - The world is not enough
+* Garbage - You look so fine
+* Genesis - I can't dance
+* George Michael - Faith
+* Gloria Gaynor - I will survive
+* Godsmack - Awake
+* Godsmack - I Stand Alone
+* Godsmack - Love-Hate-Sex-Pain
+* Godsmack - Something Different
+* Gorillaz - Clint Eastwood
+* Gorillaz - Feel Good
+* Gotye - Somebody That I Used To Know
+* Grease - Sandy
+* Grease - Summer Nights
+* Grease - You're the one that I want
+* Green Day - 21 Guns
+* Green Day - Good Riddance (Time Of Your Life)
+* Green Day - Jesus Of Suburbia
+* Green Day - Tired Of Waiting
+* Green Day - When I Come Around
+* Guano Apes - Open Your Eyes
+* Guns N' Roses - Knockin' On Heavens Door
+* Guns N' Roses - November Rain
+* Guns N' Roses - Sweet child o mine
+* Gwen Stefani - Hollaback girl
+* Haddaway - What is love
+* HIGH SCHOOL MUSICAL
+* Ice Cube - It Was a Good Day
+* Incubus - Drive
+* India Arie - I am ready for love
+* Iron Maiden - The number of the Beast
+* Jack Johnson - Upside Down
+* James Arthur - Impossible
+* James Blunt - Goodbye my lover
+* James Blunt - You're Beautiful
+* James Morrison feat. Nelly Furtado - Broken strings
+* Jeff Buckley - Hallelujah
+* Jennifer Lopez - Get right
+* Jennifer Rush - Power of love
+* Jerry Lee Lewis - Great balls of fire
+* Jessica - Everytime we say goodbye
+* Jessie J - Do It Like A Dude
+* Jessie J - Flashlight
+* Jessie J & David Guetta - Laserlight
+* Jessie J feat. B.o.B - Price Tag
+* Jet - Are You Gonna Be My Girl
+* Jimi Hendrix -  Hey Joe
+* Jimi Hendrix - Purple Haze
+* Joan Osborne - One Of Us
+* Joe Cocker - Summer in the city
+* Joe Cocker - Unchain my heart
+* Joe Cocker - Up where we belong
+* John Cale - Hallelujah
+* John Legend - All of me
+* John Lennon - Imagine
+* John Newman - Blame
+* John Newman - Love Me Again
+* Justin Bieber - Love Yourself
+* Justin Bieber - One time
+* Justin Bieber - Somebody to love
+* Kaoma - Lambada
+* Katrina and the waves - Walking on sunshine
+* Katy Perry - ET
+* Katy Perry - Firework
+* Katy Perry - I kissed a girl
+* Katy Perry - Peacock
+* Katy Perry - Roar
+* Katy Perry - Swish Swish
+* Katy Perry - Thinking of You
+* Katy Perry - Unconditionally
+* Killers - Human
+* Killers - Somebody told me
+* Killing Moon - Echo & The Bunnymen
+* Kings Of Leon - Birthday
+* Kings Of Leon - Closer
+* Kings Of Leon - Manhatan
+* Kings Of Leon - Notion
+* Kings Of Leon - Sex Is On Fire
+* Kings Of Leon - Use Somebody
+* Korn - Freak On A Leash
+* Kylie Minogue – Locomotion
+* Lady Gaga - Brown Eyes
+* Lady Gaga - Perfect illusion
+* Lady Gaga - Poker Face
+* Laid Back - Sunshine Reggae
+* Lana Del Rey - Young and beautiful
+* Lana Del Rey & Cedric Gervais - Summertime sadness
+* Laskowyj Maj - Bielyje Rozy
+* Led Zeppelin - Babe I'm gonna leave You
+* Led Zeppelin - Black dog
+* Led Zeppelin - Dazed and confused
+* Led Zeppelin - D'yer Maker
+* Led Zeppelin - Going to California
+* Led Zeppelin - Over the hills  far away
+* Led Zeppelin - Rock and Roll
+* Led Zeppelin - Stairway to heaven
+* Led Zeppelin - The ocean
+* Lena - Satellite
+* Lenka - The show
+* Lenka - Trouble is a friend
+* Lenny Kravitz - Are You gonna go my way
+* Lenny Kravitz - Fly away
+* Leonard Cohen - Dance Me to the End of Love
+* Limp Bizkit - Behind blue eyes
+* Limp Bizkit - Boiler
+* Limp Bizkit - Hot Dog
+* Limp Bizkit - My way
+* Linkin Park - Crawlin'
+* Linkin Park - In the end
+* Linkin Park - Numb
+* Linkin Park - One step closer
+* Linkin Park - Somewhere I Belong
+* Lionel Richie - Endless love
+* Lionel Richie - Hello
+* Lionel Richie - Night shift
+* LMFAO - I'm in Miami bitch!
+* Loona - Bailando
+* Los Del Rio - Macarena
+* Lou Bega - I got a girl
+* Lou Reed - Perfect day
+* LP - Lost on You
+* LP - Muddy waters
+* Luis Armstrong - Wonderful world
+* Lykke Li - I Follow Rivers
+* Madonna - Don't cry Argentina
+* Madonna - Drowned world
+* Madonna - Frozen
+* Madonna - La isla bonita
+* Madonna - Like a virgin
+* Madonna - Music
+* Madonna - Power of goodbye
+* Madonna - Ray of light
+* Madonna - What it feels like
+* Madonna - Who's that girl
+* Mans Zelmerlow - Heroes
+* Marc Cohn - Walking In Memphis
+* Mariah Carey - Hero
+* Mariah Carey, Whitney Houston - When you believe
 
 > Nie wszystkie utwory, które posiadam znajdują się na liście. Lista piosenek jest systematycznie rozszerzana o nowe utwory.
 >
 > Nie ma Twojej piosenki na liście? Napisz do mnie, może już ją mam :)
-
-#### [Pobierz listę w formacie PDF](https://www.karaoke-3city.pl/lista-karaoke.pdf)
+>
+> #### [Pobierz listę w formacie PDF](https://www.karaoke-3city.pl/lista-karaoke.pdf)
