@@ -957,6 +957,63 @@ Jula - Za każdym razem
 * Kings Of Leon - Use Somebody
 * Korn - Freak On A Leash
 * Kylie Minogue – Locomotion
+* Lady Gaga - Brown Eyes
+* Lady Gaga - Perfect illusion
+* Lady Gaga - Poker Face
+* Laid Back - Sunshine Reggae
+* Lana Del Rey - Young and beautiful
+* Lana Del Rey & Cedric Gervais - Summertime sadness
+* Laskowyj Maj - Bielyje Rozy
+* Led Zeppelin - Babe I'm gonna leave You
+* Led Zeppelin - Black dog
+* Led Zeppelin - Dazed and confused
+* Led Zeppelin - D'yer Maker
+* Led Zeppelin - Going to California
+* Led Zeppelin - Over the hills  far away
+* Led Zeppelin - Rock and Roll
+* Led Zeppelin - Stairway to heaven
+* Led Zeppelin - The ocean
+* Lena - Satellite
+* Lenka - The show
+* Lenka - Trouble is a friend
+* Lenny Kravitz - Are You gonna go my way
+* Lenny Kravitz - Fly away
+* Leonard Cohen - Dance Me to the End of Love
+* Limp Bizkit - Behind blue eyes
+* Limp Bizkit - Boiler
+* Limp Bizkit - Hot Dog
+* Limp Bizkit - My way
+* Linkin Park - Crawlin'
+* Linkin Park - In the end
+* Linkin Park - Numb
+* Linkin Park - One step closer
+* Linkin Park - Somewhere I Belong
+* Lionel Richie - Endless love
+* Lionel Richie - Hello
+* Lionel Richie - Night shift
+* LMFAO - I'm in Miami bitch!
+* Loona - Bailando
+* Los Del Rio - Macarena
+* Lou Bega - I got a girl
+* Lou Reed - Perfect day
+* LP - Lost on You
+* LP - Muddy waters
+* Luis Armstrong - Wonderful world
+* Lykke Li - I Follow Rivers
+* Madonna - Don't cry Argentina
+* Madonna - Drowned world
+* Madonna - Frozen
+* Madonna - La isla bonita
+* Madonna - Like a virgin
+* Madonna - Music
+* Madonna - Power of goodbye
+* Madonna - Ray of light
+* Madonna - What it feels like
+* Madonna - Who's that girl
+* Mans Zelmerlow - Heroes
+* Marc Cohn - Walking In Memphis
+* Mariah Carey - Hero
+* Mariah Carey, Whitney Houston - When you believe
 
 > Nie wszystkie utwory, które posiadam znajdują się na liście. Lista piosenek jest systematycznie rozszerzana o nowe utwory.
 >
