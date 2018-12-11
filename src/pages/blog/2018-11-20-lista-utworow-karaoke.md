@@ -579,6 +579,8 @@ Jula - Za każdym razem
 * Margaret - Smak radości
 * Margaret - Thank You Very Much
 * Maria Koterbska - Serduszko puka w rytmie 
+* Marika - Modlitwa dziewczyńska
+* Marika - Moje serce
 
 
 
