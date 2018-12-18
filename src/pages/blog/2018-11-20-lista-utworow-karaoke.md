@@ -425,10 +425,7 @@ Wszystkie podkłady są w dobrej jakości, nie używam podkładów MIDI.
 * Jeden Osiem L - Jak zapomnieć
 * Jerzy Połomski - Bo z dziewczynami
 * Jerzy Stuhr - Śpiewać każdy może
-* 
-
-Jula - Za każdym razem
-
+* Jula - Za każdym razem
 * Just 5 - Kolorowe sny
 * Justyna & Piotr - Ty i ja
 * Kabaret Ani Mru Mru - Na tańce go, go, go
@@ -490,7 +487,7 @@ Jula - Za każdym razem
 * Kombi - Zaczaruj mnie
 * Kraina Lodu - Mam tę moc
 * Kraina Lodu - Ulepimy dziś bałwana
-* Krawczyk Bregovic - Mój przyjacielu
+* Krawczyk & Bregovic - Mój przyjacielu
 * Krystyna Prońko - Jesteś lekiem na całe zło
 * Krystyna Prońko - Małe tęsknoty
 * Krzysztof Antkowiak - Zakazany owoc
@@ -579,8 +576,8 @@ Jula - Za każdym razem
 * Margaret - Smak radości
 * Margaret - Thank You Very Much
 * Maria Koterbska - Serduszko puka w rytmie 
-
-
+* Marika - Modlitwa dziewczyńska
+* Marika - Moje serce
 
 ## Zagraniczne zespoły
 
