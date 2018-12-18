@@ -6,6 +6,10 @@ import facebook from "../img/facebook-icon.svg";
 const Navbar = () => (
   <nav className="navbar is-transparent">
     <div className="container">
+    {/* [THE HAMBURGER] */}
+      <label for="hamburger">&#9776;</label>
+      <input type="checkbox" id="hamburger"/>
+
       <div className="navbar-brand">
         <Link to="/" className="navbar-item">
           <div className="logo">
@@ -13,20 +17,20 @@ const Navbar = () => (
           </div>
         </Link>
       </div>
-      <div className="navbar-start">
-       <Link className="navbar-item" to="/gdzie-jest-karaoke">
+      <ul className="navbar-start">
+        <li><Link className="navbar-item" to="/gdzie-jest-karaoke">
           Gdzie na karaoke?
-        </Link>
-        <Link className="navbar-item" to="/prowadzenie-imprez">
+        </Link></li>
+        <li><Link className="navbar-item" to="/prowadzenie-imprez">
           Prowadzenie imprez
-        </Link>
-        <Link className="navbar-item" to="/mary-jane-razor">
+        </Link></li>
+        <li><Link className="navbar-item" to="/mary-jane-razor">
           Mary Jane Razor
-        </Link>
-        <Link className="navbar-item" to="/kontakt">
+        </Link></li>
+        <li><Link className="navbar-item" to="/kontakt">
           Kontakt
-        </Link>
-      </div>
+        </Link></li>
+      </ul>
       <div className="navbar-end">
         <a
           className="navbar-item"

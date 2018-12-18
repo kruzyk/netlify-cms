@@ -10,3 +10,56 @@
     position: sticky;
     top: 0;
 }
+.navbar label, .navbar ul, .navbar li {
+    display: inline-block;
+  }
+  /* [HAMBURGER - HIDDEN ON BIG SCREENS] */
+  .navbar label, #hamburger {
+    display: none;
+  }
+  .navbar label {
+    color: #fff;
+    background: #a02620;
+    font-style: normal;
+    font-size: 1.2em;
+    padding: 10px;
+  }
+  
+  /* [MENU ITEMS] */
+  .navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0; 
+  }
+  .navbar ul li {
+    padding: 10px;
+    box-sizing: border-box;
+  }
+  .navbar ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  /* [ON SMALL SCREENS] */
+  @media screen and (max-width: 768px){
+    /* [SHOW HAMBURGER] */
+    .navbar label {
+      display: inline-block;
+    }
+  
+    /* [BREAK DOWN MENU INTO VERTICAL] */
+    .navbar ul li {
+      display: block;
+    }
+    .navbar ul li {
+      border-top: 1px solid #333;
+    }
+  
+    /* [SHOW/HIDE MENU ON CHECKBOX CLICK] */
+    .navbar ul {
+      display: none;
+    }
+    .navbar input:checked ~ ul {
+      display: block;
+    }
+  }
