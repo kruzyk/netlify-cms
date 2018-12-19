@@ -6,15 +6,15 @@ import facebook from "../img/facebook-icon.svg";
 const Navbar = () => (
   <nav className="navbar is-transparent">
     <div className="container">
-
+    {/* [THE HAMBURGER] */}
+    <label for="hamburger">&#9776;</label>
+    <input type="checkbox" id="hamburger"/>
       <div className="navbar-brand">
-          <label for="hamburger">&#9776;</label>
-          <input type="checkbox" id="hamburger"/>
         <Link to="/" className="navbar-item">
           <div className="logo">
           karaoke
           </div>
-          {/* [THE HAMBURGER] */}
+          
         </Link>
       </div>
       <ul className="navbar-start">
