@@ -8,13 +8,13 @@ const Navbar = () => (
     <div className="container">
 
       <div className="navbar-brand">
+          <label for="hamburger">&#9776;</label>
+          <input type="checkbox" id="hamburger"/>
         <Link to="/" className="navbar-item">
           <div className="logo">
           karaoke
           </div>
           {/* [THE HAMBURGER] */}
-          <label for="hamburger">&#9776;</label>
-          <input type="checkbox" id="hamburger"/>
         </Link>
       </div>
       <ul className="navbar-start">
