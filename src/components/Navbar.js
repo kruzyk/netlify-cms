@@ -6,17 +6,16 @@ import facebook from "../img/facebook-icon.svg";
 const Navbar = () => (
   <nav className="navbar is-transparent">
     <div className="container">
-    {/* [THE HAMBURGER] */}
-    <label for="hamburger">&#9776;</label>
-    <input type="checkbox" id="hamburger"/>
       <div className="navbar-brand">
         <Link to="/" className="navbar-item">
           <div className="logo">
           karaoke
           </div>
-          
         </Link>
       </div>
+      {/* [THE HAMBURGER] */}
+    <label for="hamburger">&#9776;</label>
+    <input type="checkbox" id="hamburger"/>
       <ul className="navbar-start">
         <li><Link className="navbar-item" to="/gdzie-jest-karaoke">
           Gdzie na karaoke?
