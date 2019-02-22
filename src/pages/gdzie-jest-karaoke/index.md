@@ -38,8 +38,7 @@ main:
   image3:
     alt: Dwa pokale piwa
     image: /img/two-pints-beer-main.jpg
-testimonials:
-  - quote: ''
+testimonials: []
 full_image: /img/12698616_1560534740904505_542198214049005302_o.jpg
 pricing:
   heading: ''
