@@ -32,7 +32,7 @@ testimonials:
       Najlepsza impreza na jakiej byłam! Można posłuchać i pośpiewać do
       świetnych kawałków a jak wszyscy się rozkręcą to jest świetna okazja do
       potańczenia aż do rana. Staram się wracać jak tylko mogę.
-  - author: Przemek Bajeczny
+  - author: Przemek Michalczyk
     quote: >-
       Mary Jane Razor, czy Żyleta jak ktoś woli, prowadzi imprezy karaoke w
       profesjonalny sposób. Ma dobrej jakości podkłady.
