@@ -12,9 +12,7 @@ intro:
       image: /img/41503648_10157153191277137_8436146974364794880_n.jpg
       localisation: >-
         https://wego.here.com/directions/mix//Klub-Autsajder,-ulica-Do-Studzienki-34A,-80-227-Gda%C5%84sk:e-eyJuYW1lIjoiS2x1YiBBdXRzYWpkZXIiLCJhZGRyZXNzIjoidWwuIERvIFN0dWR6aWVua2kgMzRBLCA4MC0yMjcgV3J6ZXN6Y3osIEdkYW5zaywgUG9sYW5kIiwibGF0aXR1ZGUiOjU0LjM2ODU1LCJsb25naXR1ZGUiOjE4LjYxMTA5LCJwcm92aWRlck5hbWUiOiJmYWNlYm9vayIsInByb3ZpZGVySWQiOjMzMDAwMTY1NzEzNn0=?map=54.36855,18.61109,15,normal&fb_locale=pl_PL
-      text: |-
-        WYDARZENIE TYMCZASOWO ANULOWANE
-        środa, godzina 21:00 - klub Autsajder
+      text: WYDARZENIE TYMCZASOWO ANULOWANE
     - event: 'https://www.facebook.com/events/2154809264777056/'
       image: /img/43083214_10156511778520049_8254498556715466752_n.jpg
       localisation: >-
